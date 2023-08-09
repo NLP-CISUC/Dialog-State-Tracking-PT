@@ -600,20 +600,22 @@
         "type": "college"
     },
     {
-        "address": "between victoria road and the river",
+        "address": "R. Edmundo Bettencourt 15 16",
         "area": "north",
         "entrance fee": "?",
         "id": "35",
         "location": [
-            52.220328,
-            0.115149
+            40.21120023743851,
+            -8.40566354506158
         ],
-        "name": "jesus green outdoor pool",
+        "name": "Piscina da Quinta de São Jerónimo",
         "openhours": "?",
-        "phone": "01223302579",
-        "postcode": "cb43px",
+        "phone": "919191905",
+        "postcode": "3000-606",
         "pricerange": "?",
         "type": "swimmingpool"
+        "idMultiWoz": "35",
+        "nameMultiWoz": "jesus green outdoor pool"
     },
     {
         "address": "1 wheeler street",
