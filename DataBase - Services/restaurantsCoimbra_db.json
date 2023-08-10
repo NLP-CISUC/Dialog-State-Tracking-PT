@@ -691,20 +691,21 @@
         "nameMultiWoz": "wagamama"
     },
     {
-        "address": "12 Norfolk Street City Centre",
+        "address": "Centro Comercial CoimbraShopping, Av. Mendes Silva",
         "area": "centre",
         "food": "chinese",
-        "id": "19186",
         "introduction": "lan hong house serves great value home cooked authentic chinese food with over two five dishes available from the buffet",
         "location": [
-            52.204609,
-            0.137976
+            40.194239701663555,
+            -8.409483645572124
         ],
-        "name": "lan hong house",
-        "phone": "01223350420",
-        "postcode": "cb12lf",
+        "name": "Noodles Massas Do Oriente",
+        "phone": "239196704",
+        "postcode": "3030-193",
         "pricerange": "moderate",
-        "type": "restaurant"
+        "type": "restaurant",
+        "nameMultiWoz": "lan hong house",
+        "idMultiWoz": "19186"
     },
     {
         "address": "R Paul Harris Quinta da Portela",
