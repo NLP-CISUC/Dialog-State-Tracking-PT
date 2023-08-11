@@ -603,18 +603,18 @@
         "nameMultiWoz": "thanh binh"
     },
     {
-        "address": "Beco do Fanado 9",
+        "address": "Av. João das Regras 86",
         "area": "centre",
         "food": "spanish",
         "id": "12566",
-        "introduction": "  ",
+        "introduction": "Restaurante de tapas e petiscos, com sabores portugueses e mediterrâneos com excelente relação preço/qualidade",
         "location": [
-            0,
-            0
+            40.203832499115315,
+            -8.433519264305625
         ],
-        "name": "Cova Funda Espanhol",
-        "phone": "01223464630",
-        "postcode": "cb21uf",
+        "name": "Dona Taska",
+        "phone": "918888878",
+        "postcode": "3040-256",
         "pricerange": "moderate",
         "type": "restaurant",
         "idMultiWoz": "restaurant",
