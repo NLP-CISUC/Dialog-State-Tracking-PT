@@ -314,20 +314,37 @@
         "type": "restaurant"
     },
     {
-        "address": "68 Histon Road Chesterton",
+        "address": "Avenida Sá da Bandeira 89 R/C",
+        "area": "north",
+        "food": "indian",
+        "location": [
+            40.2111644843618,
+            -8.421892103243428
+        ],
+        "name": "Mint Leaf",
+        "phone": "239820203",
+        "postcode": "3000-131",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19266",
+        "nameMultiWoz": "tandoori palace",
+    },
+    {
+        "address": "Av. Sá da Bandeira",
         "area": "west",
         "food": "indian",
-        "id": "19266",
-        "introduction": "tandoori palace serve a variety of indian and bangladeshi dishes and can cater for private parties of up to 110 guests upon request",
+        "introduction": "Experimente as culinárias Indiana e Paquistanesa neste restaurante",
         "location": [
-            52.215486,
-            0.111167
+            40.212094217414396,
+            -8.422744885319878
         ],
-        "name": "tandoori palace",
-        "phone": "01223506055",
-        "postcode": "cb43le",
-        "pricerange": "expensive",
-        "type": "restaurant"
+        "name": "Indian Kebab Restaurant",
+        "phone": "239067999",
+        "postcode": "3000-351",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19263",
+        "nameMultiWoz": "the nirala"
     },
     {
         "address": "Rua Dr. Martins de Carvalho, nº 10",
@@ -884,22 +901,6 @@
         "type": "restaurant",
         "idMultiWoz": "19175",
         "nameMultiWoz": "yippee noodle bar"
-    },
-    {
-        "address": "Avenida Sá da Bandeira 89 R/C",
-        "area": "north",
-        "food": "indian",
-        "location": [
-            40.2111644843618,
-            -8.421892103243428
-        ],
-        "name": "Mint Leaf",
-        "phone": "239820203",
-        "postcode": "3000-131",
-        "pricerange": "moderate",
-        "type": "restaurant",
-        "idMultiWoz": "19263",
-        "nameMultiWoz": "the nirala"
     },
     {
         "address": "183 East Road City Centre",
