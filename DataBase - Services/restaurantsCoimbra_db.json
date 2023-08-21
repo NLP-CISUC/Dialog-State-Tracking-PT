@@ -485,20 +485,22 @@
         "nameMultiWoz": "darrys cookhouse and wine shop"
     },
     {
-        "address": "Mill Road City Centre",
+        "address": "Av. Fernão de Magalhães 495D",
         "area": "centre",
         "food": "indian",
         "id": "19182",
-        "introduction": "the golden curry serves a variety of authentic indian dishes at their fully licensed restaurant",
+        "introduction": "",
         "location": [
-            52.199289,
-            0.13974
+            40.22072001645267, 
+            -8.438746727397303
         ],
-        "name": "the golden curry",
-        "phone": "01223329432",
-        "postcode": "cb12az",
+        "name": "Martinhus",
+        "phone": "239824962",
+        "postcode": "3000-177",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19182",
+        "nameMultiWoz": "the golden curry"
     },
     {
         "address": "Praça do Comércio 80",
