@@ -652,20 +652,22 @@
         "nameMultiWoz": "kettle's yard"
     },
     {
-        "address": "king's parade",
+        "address": "Alta da cidade",
         "area": "centre",
         "entrance fee": "free",
         "id": "38",
         "location": [
-            52.204289,
-            0.117269
+            40.208964,
+            -8.422757
         ],
-        "name": "king's college",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223331100",
-        "postcode": "cb21st",
+        "name": "Colégio de São Jerónimo",
+        "openhours": "",
+        "phone": "239855570",
+        "postcode": "3000-143",
         "pricerange": "free",
-        "type": "college"
+        "type": "college",
+        "idMultiWoz": "38",
+        "nameMultiWoz": "king's college"
     },
     {
         "address": "Rua António Sérgio",
