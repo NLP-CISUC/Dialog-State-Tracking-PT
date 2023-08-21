@@ -718,20 +718,22 @@
         "type": "museum"
     },
     {
-        "address": "magdalene street",
+        "address": "Av. Dr. Dias da Silva 165",
         "area": "west",
         "entrance fee": "free",
         "id": "42",
         "location": [
-            52.210403,
-            0.115803
+             40.214937,
+            -8.409095
         ],
-        "name": "magdalene college",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223332138",
-        "postcode": "cb30ag",
+        "name": "Faculdade de Economia da Universidade de Coimbra",
+        "openhours": "",
+        "phone": "239790500",
+        "postcode": "3004-512",
         "pricerange": "free",
-        "type": "college"
+        "type": "college",
+        "idMultiWoz": "42",
+        "nameMultiWoz": "magdalene college"
     },
     {
         "address": "",
