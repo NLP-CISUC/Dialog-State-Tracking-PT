@@ -1172,20 +1172,22 @@
         "nameMultiWoz": "la raza"
     },
     {
-        "address": "72 Regent Street City Centre",
+        "address": "Av. Emídio Navarro 37",
         "area": "centre",
         "food": "indian",
         "id": "19218",
-        "introduction": "the gandhi serves a variety of indian and bangladeshi dishes at their restaurant to eat in or take away. Catering for private parties of up to 140 guests is available upon request",
+        "introduction": "",
         "location": [
-            52.200187,
-            0.126407
+            40.206713,
+            -8.428734
         ],
-        "name": "the gandhi",
-        "phone": "01223353942",
-        "postcode": "cb21dp",
+        "name": "Macguls",
+        "phone": "239094191",
+        "postcode": "3000-150",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19218",
+        "nameMultiWoz": "the gandhi"
     },
     {
         "address": "Câmara Pestana 8",
