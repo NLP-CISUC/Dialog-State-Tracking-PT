@@ -1320,20 +1320,22 @@
         "nameMultiWoz": "wandlebury country park"
     },
     {
-        "address": "unit 8, viking way, bar hill",
+        "address": "R. Ferreira Borges 103",
         "area": "west",
         "entrance fee": "?",
         "id": "77",
         "location": [
-            52.254,
-            0.016478
+            40.208672,
+            -8.429115
         ],
-        "name": "whale of a time",
-        "openhours": "it opens from 09:30 a.m. to 6:00 p.m. daily",
-        "phone": "01954781018",
-        "postcode": "cb238el",
+        "name": "Brain maze",
+        "openhours": "Aberto todos os dias das 11:00 às 23:00",
+        "phone": "926763116",
+        "postcode": "3000-180",
         "pricerange": "?",
-        "type": "entertainment"
+        "type": "entertainment",
+        "idMultiWoz": "77",
+        "nameMultiWoz": "whale of a time"
     },
     {
         "address": "R. Fernando Pessoa 3, Coimbra",
