@@ -1864,20 +1864,22 @@
         "nameMultiWoz": "cote"
     },
     {
-        "address": "32 Bridge Street City Centre",
+        "address": "R. Flávio Rodrigues 57",
         "area": "centre",
         "food": "italian",
         "id": "19234",
-        "introduction": "caffe uno is a chain of cafe style restaurants that offer a wide selection of meals and snacks to suit any time of the day including an extensive breakfast menu and choice of hot or cold drinks",
+        "introduction": "",
         "location": [
-            52.209632,
-            0.117213
+            40.218316,
+            -8.406947
         ],
-        "name": "caffe uno",
-        "phone": "01223448620",
-        "postcode": "cb21uj",
+        "name": "Mia Bella",
+        "phone": "239157320",
+        "postcode": "3000-350",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19234",
+        "nameMultiWoz": "caffe uno"
     },
     {
         "address": "17 Hills Road City Centre",
