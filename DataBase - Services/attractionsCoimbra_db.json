@@ -1200,20 +1200,22 @@
         "type": "nightclub"
     },
     {
-        "address": "trumpington street",
+        "address": "Colégio de São Jerónimo",
         "area": "centre",
         "entrance fee": "free",
         "id": "70",
         "location": [
-            52.19855,
-            0.121785
+            40.210131,
+            -8.424132
         ],
-        "name": "the fitzwilliam museum",
-        "openhours": "from tuesday to saturday it opens from 10 a.m. to 5 p.m. while on sunday, monday and bank holidays it opens from 12 to 5 p.m.",
-        "phone": "01223332900",
-        "postcode": "cb21rb",
+        "name": "Museu Académico",
+        "openhours": "aberto das 10h às 12h30 e das 14h às 17h. Fechado aos fins-de-semana.",
+        "phone": "239857000",
+        "postcode": "3000-315",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "70",
+        "nameMultiWoz": "the fitzwilliam museum "
     },
     {
         "address": "Estúdio 2, Av. Sá da Bandeira 33 Piso 0",
