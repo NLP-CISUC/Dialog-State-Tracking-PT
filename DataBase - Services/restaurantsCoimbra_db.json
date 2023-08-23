@@ -365,20 +365,22 @@
         "nameMultiWoz": "riverside brasserie"
     },
     {
-        "address": "74 Mill Road City Centre",
+        "address": "Largo da Sé Velha 15",
         "area": "centre",
-        "food": "indian",
+        "food": "mediterranean",
         "id": "19180",
-        "introduction": "kohinoor serves a variety of indian and vegetarian dishes at their restaurant a takeaway and delivery service is also available",
+        "introduction": "",
         "location": [
-            52.200422,
-            0.135784
+            40.209193,
+            -8.426946
         ],
-        "name": "kohinoor",
-        "phone": "01223323639",
-        "postcode": "cb12as",
+        "name": "O Trovador",
+        "phone": "239825475",
+        "postcode": "3000-383",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19180",
+        "nameMultiWoz": "kohinoor"
     },
     {
         "address": "R. Irmã Lúcia 20",
