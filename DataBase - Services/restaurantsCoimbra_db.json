@@ -1884,20 +1884,22 @@
         "nameMultiWoz": "caffe uno"
     },
     {
-        "address": "17 Hills Road City Centre",
+        "address": "Av. Sá da Bandeira nº 89",
         "area": "centre",
         "food": "chinese",
         "id": "19222",
-        "introduction": "sesame restaurant and bar offers a wide variety of traditional chinese cuisine for lunch or dinner with wifi access and a television screen in the basement",
+        "introduction": "",
         "location": [
-            52.197154,
-            0.129511
+            40.211145,
+            -8.421934
         ],
-        "name": "sesame restaurant and bar",
-        "phone": "01223358899",
-        "postcode": "cb21nw",
+        "name": "FU 89",
+        "phone": "239821202",
+        "postcode": "3000-131",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19222",
+        "nameMultiWoz": "sesame restaurant and bar"
     },
     {
         "address": "24 Green Street City Centre",
