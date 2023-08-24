@@ -448,20 +448,22 @@
         "nameMultiWoz": "corpus christi"
     },
     {
-        "address": "regent street",
+        "address": "R. Dom João III",
         "area": "centre",
         "entrance fee": "free",
         "id": "26",
         "location": [
-            52.2013777777778,
-            0.125194444444444
+            40.205423,
+            -8.405908
         ],
-        "name": "downing college",
-        "openhours": "it opens daily from 9 a.m. to 5 p.m. except during easter term",
-        "phone": "01223334860",
-        "postcode": "cb21dq",
+        "name": "Escola Superior de Educação de Coimbra",
+        "openhours": "Aberto das 08h às 23h todos os dias, exceto ao sábado que fecha às 18h30 e ao domingo está encerrado",
+        "phone": "239793120",
+        "postcode": "3030-329",
         "pricerange": "free",
-        "type": "college"
+        "type": "college",
+        "idMultiWoz": "26",
+        "nameMultiWoz": "downing college"
     },
     {
         "address": "saint andrew's street",
