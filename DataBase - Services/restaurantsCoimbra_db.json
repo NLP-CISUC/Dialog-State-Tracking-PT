@@ -435,19 +435,21 @@
         "type": "restaurant"
     },
     {
-        "address": "59 Hills Road City Centre",
+        "address": "R. de Fernandes Thomas 45-49",
         "area": "centre",
         "food": "lebanese",
         "id": "19221",
         "location": [
-            52.195416,
-            0.13114
+            40.208460,
+            -8.428665
         ],
-        "name": "ali baba",
-        "phone": "01462432565",
-        "postcode": "cb21nt",
+        "name": "Fangas Veg",
+        "phone": "934093636",
+        "postcode": "3000-178",
         "pricerange": "moderate",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19221",
+        "nameMultiWoz": "ali baba"
     },
     {
         "address": "Rua de Quebra Costas 19",
