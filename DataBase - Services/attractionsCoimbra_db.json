@@ -894,20 +894,22 @@
         "type": "museum"
     },
     {
-        "address": "10 king s parade",
+        "address": "Rua Ferreira Borges 85",
         "area": "centre",
         "entrance fee": "free",
         "id": "52",
         "location": [
-            52.2034781571435,
-            0.119176917855308
+            40.208816,
+            -8.428961
         ],
-        "name": "primavera",
-        "openhours": "it opens from 11:00 a.m. to 4:30 p.m. on sunday, from 10:00 a.m. to 5:00 p.m. from monday to friday, and from 10:00 a.m. to 5:30 p.m. on saturday",
-        "phone": "01223357708",
-        "postcode": "cb21sj",
+        "name": "Museu Municipal de Coimbra",
+        "openhours": "Terça a sexta: 10h00 – 18h00, Fim-de-semana: 10h00 | 13h00 – 14h00 | 18h00 Encerra: segundas e feriados.",
+        "phone": "239840754",
+        "postcode": "3000-180",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "52",
+        "nameMultiWoz": "primavera"
     },
     {
         "address": " R. do Norte 23",
