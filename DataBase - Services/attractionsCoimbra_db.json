@@ -1276,20 +1276,22 @@
         "nameMultiWoz": "the place"
     },
     {
-        "address": "trinity street",
+        "address": "Av. José R. Sousa Fernandes",
         "area": "centre",
-        "entrance fee": "1 pound",
+        "entrance fee": "free",
         "id": "74",
         "location": [
-            52.207081,
-            0.117622
+            40.235305,
+            -8.417096
         ],
-        "name": "trinity college",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223338400",
-        "postcode": "cb21tq",
-        "pricerange": "cheap",
-        "type": "college"
+        "name": "Escola Universitária Vasco da Gama",
+        "openhours": "das 08h às 20h de segunda a sexta. Encerrado aos fins-de-semana.",
+        "phone": "239444444",
+        "postcode": "3020-210",
+        "pricerange": "free",
+        "type": "college",
+        "idMultiWoz": "74",
+        "nameMultiWoz": "trinity college"
     },
     {
         "address": " Rua General Humberto Delgado, nº 207 e 211",
