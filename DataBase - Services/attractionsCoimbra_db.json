@@ -706,20 +706,22 @@
         "type": "architecture"
     },
     {
-        "address": "23 high street, fen ditton",
+        "address": "Av. Marnoco e Sousa 54",
         "area": "west",
         "entrance fee": "free",
         "id": "41",
         "location": [
-            52.222053,
-            0.095086
+           40.206277,
+            -8.414790
         ],
-        "name": "lynne strover gallery",
-        "openhours": "it opens from 10:00 a.m. to 5:00 p.m. thursday to saturday",
-        "phone": "01223295264",
-        "postcode": "cb30aq",
+        "name": "Memorial da Irmã Lúcia",
+        "openhours": "Aberto todos os dias, das 10h30 às 12h e das 14h30 às 17h30, exceto aos domingos",
+        "phone": "239781638",
+        "postcode": "3000-271",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "41",
+        "nameMultiWoz": "lynne strover gallery"
     },
     {
         "address": "Av. Dr. Dias da Silva 165",
