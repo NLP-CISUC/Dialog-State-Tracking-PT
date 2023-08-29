@@ -1633,20 +1633,22 @@
         "type": "restaurant"
     },
     {
-        "address": "Huntingdon Road City Centre",
+        "address": "Praça República 5",
         "area": "west",
         "food": "british",
         "id": "19251",
         "introduction": "",
         "location": [
-            52.214201,
-            0.108588
+            40.210130,
+            -8.420103
         ],
-        "name": "travellers rest",
-        "phone": "01223276182",
-        "postcode": "cb30df",
+        "name": "Republika a la Carte",
+        "phone": "239132326",
+        "postcode": "3000-343",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19251",
+        "nameMultiWoz": "travellers rest"
     },
     {
         "address": "106 Mill Road City Centre",
