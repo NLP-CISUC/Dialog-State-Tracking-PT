@@ -72,20 +72,22 @@
         "nameMultiWoz": "the good luck chinese food takeaway"
     },
     {
-        "address": "G4 Cambridge Leisure Park Clifton Way Cherry Hinton",
+        "address": "Av. José Bonifácio de Andrada e Silva 16",
         "area": "south",
         "food": "italian",
         "id": "19196",
-        "introduction": "pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+        "introduction": "",
         "location": [
-            52.190176,
-            0.13699
+            40.211617,
+            -8.442610
         ],
-        "name": "pizza hut cherry hinton",
-        "phone": "01223323737",
-        "postcode": "cb17dy",
+        "name": "Pizza Hut Forum Coimbra",
+        "phone": "222444222",
+        "postcode": "3044-520",
         "pricerange": "moderate",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19196",
+        "nameMultiWoz": "pizza hut cherry hinton"
     },
     {
         "address": "Terreiro da Erva 20",
