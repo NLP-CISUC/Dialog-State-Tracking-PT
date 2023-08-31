@@ -778,20 +778,22 @@
         "nameMultiWoz": "mumford theatre"
     },
     {
-        "address": "university of cambridge, downing street",
+        "address": "Santa Clara-a-Velha",
         "area": "centre",
         "entrance fee": "free",
         "id": "45",
         "location": [
-            52.205261,
-            0.11664
+            40.201477,
+            -8.432338
         ],
-        "name": "museum of archaelogy and anthropology",
-        "openhours": "it opens from 10:30 a.m. to 4:30 p.m. tuesday to saturday",
-        "phone": "01223333516",
-        "postcode": "cb23dz",
+        "name": "Centro de Interpretação de Santa Clara-a-Velha",
+        "openhours": "Aberto das 10h às 18h, exceto às segundas-feiras",
+        "phone": "239801160",
+        "postcode": "3040-266",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "45",
+        "nameMultiWoz": "museum of archaelogy and anthropology"
     },
     {
         "address": "sidgwick avenue",
