@@ -1298,21 +1298,22 @@
         "type": "restaurant"
     },
     {
-        "address": "3 - 5 Millers Yard Mill Lane",
+        "address": "Av. Dom Afonso Henriques",
         "area": "centre",
-        "food": "indian",
+        "food": "portuguese",
         "id": "15275",
         "introduction": "",
         "location": [
-            52.20143,
-            0.11664
+            40.209980,
+            -8.414193
         ],
-        "name": "mahal of cambridge",
-        "phone": "01223360409",
-        "postcode": "cb21rq",
+        "name": "",
+        "phone": "938451205",
+        "postcode": "3000-011",
         "pricerange": "cheap",
-        "signature": "chicken tikka masala",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "15275",
+        "nameMultiWoz": "mahal of cambridge"
     },
     {
         "address": "Jesus Lane Fen Ditton",
