@@ -1056,20 +1056,22 @@
         "type": "museum"
     },
     {
-        "address": "granta place, mill lane",
+        "address": "Rua da Calçada nº 21",
         "area": "centre",
         "entrance fee": "?",
         "id": "61",
         "location": [
-            52.200975,
-            0.116298
+            40.191806,
+            -8.387670
         ],
-        "name": "scudamores punting co",
+        "name": "O Pioneiro do Mondego",
         "openhours": "?",
-        "phone": "01223359750",
-        "postcode": "cb21rs",
+        "phone": "239478385",
+        "postcode": "3360-184",
         "pricerange": "?",
-        "type": "boat"
+        "type": "boat",
+        "idMultiWoz": "61",
+        "nameMultiWoz": "scudamores punting co"
     },
     {
         "address": "fen causeway, newnham road,",
