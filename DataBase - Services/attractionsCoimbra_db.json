@@ -620,20 +620,22 @@
         "nameMultiWoz": "jesus green outdoor pool"
     },
     {
-        "address": "1 wheeler street",
+        "address": "Praça República 18 24",
         "area": "centre",
-        "entrance fee": "5 pounds",
+        "entrance fee": "?",
         "id": "36",
         "location": [
-            52.204192,
-            0.119187
+            40.210215,
+            -8.419710
         ],
-        "name": "kambar",
-        "openhours": "it opens from 10:00 p.m. to 4:00 a.m. depending on whether there is an event on or not",
-        "phone": "01223842725",
-        "postcode": "cb23qb",
+        "name": "mandarim",
+        "openhours": "Aberto das 14h às 06h, exceto aos domingos",
+        "phone": "912838337",
+        "postcode": "3000-019",
         "pricerange": "moderate",
-        "type": "nightclub"
+        "type": "nightclub",
+        "idMultiWoz": "36",
+        "nameMultiWoz": "kambar"
     },
     {
         "address": "Largo Marquês de Pombal",
