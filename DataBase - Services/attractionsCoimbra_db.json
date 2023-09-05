@@ -744,17 +744,17 @@
         "nameMultiWoz": "magdalene college"
     },
     {
-        "address": "",
+        "address": "Av. Lousã",
         "area": "north",
         "entrance fee": "free",
         "id": "43",
         "location": [
-            0,
-            0
+            40.201617,
+            -8.425154
         ],
         "name": "Parque Verde do Mondego",
         "openhours": "always",
-        "phone": "01223420060",
+        "phone": "?",
         "postcode": "3000-214",
         "pricerange": "free",
         "type": "park",
