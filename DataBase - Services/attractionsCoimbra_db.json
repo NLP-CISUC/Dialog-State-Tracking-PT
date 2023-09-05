@@ -1042,20 +1042,22 @@
         "nameMultiWoz": "saint john's college"
     },
     {
-        "address": "lensfield road",
+        "address": "Largo da Porta Férrea",
         "area": "centre",
         "entrance fee": "free",
         "id": "60",
         "location": [
-            52.19806,
-            0.123185
+            40.207330,
+            -8.426552
         ],
-        "name": "scott polar museum",
-        "openhours": "it opens from 10:00 a.m. to 4:00 p.m. from tuesday to saturday",
-        "phone": "01223336540",
-        "postcode": "cb21er",
+        "name": "Prisão académica",
+        "openhours": "",
+        "phone": "?",
+        "postcode": "3040-202",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "60",
+        "nameMultiWoz": "scott polar museum"
     },
     {
         "address": "Rua da Calçada nº 21",
