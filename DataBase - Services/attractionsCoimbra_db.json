@@ -884,20 +884,22 @@
         "type": "college"
     },
     {
-        "address": "girton college, huntingdon road",
+        "address": "R. Sobre Ribas 35 5",
         "area": "west",
         "entrance fee": "free",
         "id": "51",
         "location": [
-            52.228375,
-            0.0837527777777778
+            40.210165,
+            -8.428165
         ],
-        "name": "people's portraits exhibition at girton college",
-        "openhours": "it opens from 2:00 p.m. to 4:00 p.m. daily from february to july",
-        "phone": "01223338901",
-        "postcode": "cb3ojg",
+        "name": "Museu da Santa Casa da Misericórdia",
+        "openhours": "Aberto das 10h às 17h todos os dias",
+        "phone": "239823403",
+        "postcode": "3000-395",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "52",
+        "nameMultiWoz": "people's portraits exhibition at girton college"
     },
     {
         "address": "Rua Ferreira Borges 85",
