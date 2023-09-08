@@ -198,20 +198,22 @@
         "nameMultiWoz": "cambridge artworks"
     },
     {
-        "address": "49 newnham road",
+        "address": "Travessa dos vales, nº7",
         "area": "west",
         "entrance fee": "free",
         "id": "12",
         "location": [
-            52.198744,
-            0.113364
+            40.361033,
+            -7.902002
         ],
-        "name": "cambridge book and print gallery",
-        "openhours": "it opens from 10:00 a.m. to 5:00 p.m. from tuesday to saturday",
-        "phone": "01223694264",
-        "postcode": "cb39ey",
+        "name": "Museu do azeite",
+        "openhours": "Aberto das 10h às 18h, exceto às segundas-feiras.",
+        "phone": "238603095",
+        "postcode": "3405-008",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "12",
+        "nameMultiWoz": "cambridge book and print gallery"
     },
     {
         "address": "R. do Arco Almedina 11",
