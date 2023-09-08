@@ -800,20 +800,22 @@
         "nameMultiWoz": "museum of archaelogy and anthropology"
     },
     {
-        "address": "sidgwick avenue",
+        "address": "Largo Cândido dos Reis 4",
         "area": "west",
         "entrance fee": "free",
         "id": "46",
         "location": [
-            52.20987,
-            0.111565
+            40.346653,
+            -8.591327
         ],
-        "name": "museum of classical archaeology",
-        "openhours": "it opens from 10:00 a.m. to 5:00 p.m. monday to friday",
-        "phone": "01223335153",
-        "postcode": "cb39da",
+        "name": "Museu da Pedra",
+        "openhours": "Aberto das 10h às 18h, exceto aos fins de semana",
+        "phone": "231423730",
+        "postcode": "3060-202",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "46",
+        "nameMultiWoz": "museum of classical archaeology"
     },
     {
         "address": "Rua Quebra Costas 45",
