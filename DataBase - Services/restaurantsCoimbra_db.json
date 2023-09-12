@@ -544,20 +544,22 @@
         "type": "restaurant"
     },
     {
-        "address": "37 Newnham Road Newnham",
+        "address": "Praça do Comércio 110",
         "area": "west",
-        "food": "indian",
+        "food": "portuguese",
         "id": "19255",
-        "introduction": "the rice boat serves an authentic kind of indian cuisine that originates from the villages of kerala where the spice trade originated",
+        "introduction": "",
         "location": [
-            52.199012,
-            0.113196
+            40.208357,
+            -8.429369
         ],
-        "name": "rice boat",
-        "phone": "01223302800",
-        "postcode": "cb39ey",
+        "name": "A Cozinha da Maria",
+        "phone": "911533126",
+        "postcode": "3000-116",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19255",
+        "nameMultiWoz": "rice boat"
     },
     {
         "address": "15 - 19 Trumpington Street",
