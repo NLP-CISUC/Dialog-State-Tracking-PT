@@ -872,20 +872,22 @@
         "nameMultiWoz": "parkside pools"
     },
     {
-        "address": "trumpington street",
+        "address": "R. Gruta da Moura 9",
         "area": "centre",
         "entrance fee": "free",
         "id": "50",
         "location": [
-            52.202611,
-            0.120658
+            40.197915,
+            -8.460940
         ],
-        "name": "pembroke college",
-        "openhours": "any time except may and june",
-        "phone": "01223338100",
-        "postcode": "cb21rf",
+        "name": "Escola Superior de Enfermagem de Coimbra",
+        "openhours": "Aberto das 08h às 21h, exceto aos domingos.",
+        "phone": "239487200",
+        "postcode": "3045-043",
         "pricerange": "free",
-        "type": "college"
+        "type": "college",
+        "idMultiWoz": "50",
+        "nameMultiWoz": "pembroke college"
     },
     {
         "address": "R. Sobre Ribas 35 5",
