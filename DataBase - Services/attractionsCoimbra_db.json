@@ -1386,19 +1386,21 @@
         "nameMultiWoz": "whipple museum of the history of science"
     },
     {
-        "address": "gwydir street, no. 5 dale's brewery",
+        "address": "Largo Professor António Victor Guerra, nº 4",
         "area": "centre",
         "entrance fee": "free",
         "id": "79",
         "location": [
-            52.2002,
-            0.1385
+            40.148943,
+            -8.859401
         ],
-        "name": "williams art and antiques",
-        "openhours": "it opens from 11:00 a.m. to 6:00 p.m. from tuesday to friday, from 11:00 a.m. to 5:00 p.m. on saturday and sunday, and it is closed on monday",
-        "phone": "01223311687",
+        "name": "Casa do Paço",
+        "openhours": "Aberto de terça a sábado das 10h às 17h",
+        "phone": "966913607",
         "postcode": "cb12lj",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "79",
+        "nameMultiWoz": "williams art and antiques"
     }
 ]
