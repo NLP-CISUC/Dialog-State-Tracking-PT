@@ -1086,20 +1086,22 @@
         "nameMultiWoz": "scudamores punting co"
     },
     {
-        "address": "fen causeway, newnham road,",
+        "address": "Parque do Choupalinho, Coimbra",
         "area": "south",
         "entrance fee": "free",
         "id": "62",
         "location": [
-            52.17674,
-            0.14559
+            40.2007204,
+            -8.429360
         ],
-        "name": "sheep's green and lammas land park fen causeway",
-        "openhours": "it is open from may to sept",
-        "phone": "01223302580",
-        "postcode": "cb22ad",
+        "name": "Parque do Choupalinho",
+        "openhours": "Sempre aberto",
+        "phone": "?",
+        "postcode": "3040-247",
         "pricerange": "free",
-        "type": "park"
+        "type": "park",
+        "idMultiWoz": "62",
+        "nameMultiWoz": "sheep's green and lammas land park fen causeway"
     },
     {
         "address": "sidney street",
