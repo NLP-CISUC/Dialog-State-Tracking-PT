@@ -468,20 +468,22 @@
         "nameMultiWoz": "downing college"
     },
     {
-        "address": "saint andrew's street",
+        "address": "Praça Dom Dinis",
         "area": "centre",
         "entrance fee": "free",
         "id": "27",
         "location": [
-            52.203572,
-            0.123778
+            40.209418,
+            -8.423117
         ],
-        "name": "emmanuel college",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223334200",
-        "postcode": "cb23ap",
+        "name": "Colégio de Artes",
+        "openhours": "Aberto das 09h às 17:30 todos os dias, exceto aos fins-de-semana",
+        "phone": "239857019",
+        "postcode": "3000-143",
         "pricerange": "free",
-        "type": "college"
+        "type": "college",
+        "idMultiWoz": "27",
+        "nameMultiWoz": "emmanuel college"
     },
     {
         "address": "R. Manuel Madeira 37",
