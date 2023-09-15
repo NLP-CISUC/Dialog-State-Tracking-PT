@@ -1772,21 +1772,22 @@
         "nameMultiWoz": "don pasquale pizzeria"
     },
     {
-        "address": "1 Kings Parade",
+        "address": "R. Irmã Lúcia 6 Loja 8",
         "area": "centre",
         "food": "british",
         "id": "6941",
         "introduction": "",
         "location": [
-            52.20439,
-            0.11784
+            40.196532,
+            -8.400467
         ],
-        "name": "the cambridge chop house",
-        "phone": "01223359506",
-        "postcode": "cb21sj",
+        "name": "Mellow",
+        "phone": "239403098",
+        "postcode": "3030-491",
         "pricerange": "expensive",
-        "signature": "lamb barnsley chop potato and garlic bake greens and gravy",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "6941",
+        "nameMultiWoz": "the cambridge chop house"
     },
     {
         "address": "Quinta do Almegue, Avenida José Bonifácio de Andrada e Silva, R. Vale Gemil 1",
