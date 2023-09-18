@@ -528,20 +528,21 @@
         "nameMultiWoz": "cocum"
     },
     {
-        "address": "St. Michael's Church Trinity Street City Centre",
+        "address": "Praça Infante Dom Henrique C",
         "area": "centre",
         "food": "european",
         "id": "19227",
-        "introduction": "digby trout is a chain of restaurants that are located in many of london's premier tourist attractions. they serve modern european cuisine and are open for lunch and dinner. situated in st michaels church, michaelhouse cafe serves coffee sandwiches and lunch from a regularly changing menu",
         "location": [
-            52.20608,
-            0.118215
+            40.199265,
+            -8.410998
         ],
-        "name": "michaelhouse cafe",
-        "phone": "01223309147",
-        "postcode": "cb21su",
+        "name": "Café Samambaia",
+        "phone": "239705795",
+        "postcode": "3030-055",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+         "idMultiWoz": "19227",
+        "nameMultiWoz": "michaelhouse cafe"
     },
     {
         "address": "Praça do Comércio 110",
