@@ -1004,21 +1004,22 @@
         "nameMultiWoz": "j restaurant"
     },
     {
-        "address": "33 Bridge Street",
+        "address": "Av. Emídio Navarro 58",
         "area": "centre",
         "food": "european",
         "id": "6780",
         "introduction": "",
         "location": [
-            52.20951,
-            0.11669
+            40.206048,
+            -8.427306
         ],
-        "name": "galleria",
-        "phone": "01223362054",
-        "postcode": "cb21uw",
+        "name": "Restaurante Dom Pedro",
+        "phone": "239820814",
+        "postcode": "3000-150",
         "pricerange": "moderate",
-        "signature": "poached fillets of monkfish in lemongrass with sweet red chilli cream sauce and tiger prawns with leeks and mushrooms served with rice",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "6780",
+        "nameMultiWoz": "galleria"
     },
     {
         "address": "R. Dr. Rosa Falcão 38",
