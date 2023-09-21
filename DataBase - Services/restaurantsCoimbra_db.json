@@ -108,21 +108,22 @@
         "nameMultiWoz": "taj tandoori"
     },
     {
-        "address": "152 - 154 Hills Road",
+        "address": "R. das Azeiteiras 39",
         "area": "south",
         "food": "modern european",
         "id": "14731",
         "introduction": "",
         "location": [
-            52.18889,
-            0.13589
+            40.208870,
+            -8.430224
         ],
-        "name": "restaurant alimentum",
-        "phone": "01223413000",
-        "postcode": "cb28pb",
+        "name": "Giro",
+        "phone": "239833020",
+        "postcode": "3000-066",
         "pricerange": "moderate",
-        "signature": "slowroast sirloin of beef red onion celeriac and garlic",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "14731",
+        "nameMultiWoz": "restaurant alimentum"
     },
     {
         "address": "Rua Luís A. Duarte Santos Junto Ao Leroy Merlin",
