@@ -1742,20 +1742,21 @@
         "nameMultiWoz": "efes restaurant"
     },
     {
-        "address": "Regent Street City Centre",
+        "address": "Av. Dr. João das Regras 52 e 54",
         "area": "centre",
         "food": "north american",
         "id": "19209",
-        "introduction": "gourmet burger kitchen has a trendy interior and, although a bit more expensive than the average high street burger joint, the delicious burgers and other dishes are huge and freshly prepared with large side orders to match. Catering for vegetarians is provided",
         "location": [
-            52.20103,
-            0.126023
+            40.204256,
+            -8.432946
         ],
-        "name": "gourmet burger kitchen",
-        "phone": "01223312598",
-        "postcode": "cb21ab",
+        "name": "La Vara - Handmade Burgers & Portuguese Wines",
+        "phone": "917236984",
+        "postcode": "3040-256",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19209",
+        "nameMultiWoz": "gourmet burger kitchen"
     },
     {
         "address": "Rua Borges Carneiro No 2 e 4",
