@@ -1448,20 +1448,21 @@
         "nameMultiWoz": "graffiti"
     },
     {
-        "address": "31 Newnham Road Newnham",
+        "address": "Praça do Comércio 77",
         "area": "west",
-        "food": "indian",
+        "food": "european",
         "id": "19254",
-        "introduction": "indian house serve a variety of indian dishes to eat in or take away they also have a selection of english dishes on their menu",
         "location": [
-            52.199012,
-            0.113196
+            40.209081,
+            -8.429278
         ],
-        "name": "india house",
-        "phone": "01223461661",
-        "postcode": "cb39ey",
+        "name": "A Taberninha",
+        "phone": "962625291",
+        "postcode": "3000-116",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+         "idMultiWoz": "19254",
+        "nameMultiWoz": "india house"
     },
     {
         "address": "Rua Capitão Luís Gonzaga 27/29",
