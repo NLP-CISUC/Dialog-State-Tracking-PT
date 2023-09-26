@@ -504,20 +504,22 @@
         "nameMultiWoz": "funky fun house"
     },
     {
-        "address": "fulbourn",
+        "address": "R. Eduardo Coelho",
         "area": "east",
         "entrance fee": "free",
         "id": "29",
         "location": [
-            52.183498,
-            0.22186
+            40.210398,
+            -8.429739
         ],
-        "name": "gallery at twelve a high street",
+        "name": "",
         "openhours": "?",
-        "phone": "01223295264",
-        "postcode": "cb15dh",
+        "phone": "?",
+        "postcode": "3000-148",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "29",
+        "nameMultiWoz": "gallery at twelve a high street"
     },
     {
         "address": "trinity street",
