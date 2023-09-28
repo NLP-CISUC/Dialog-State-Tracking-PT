@@ -1289,20 +1289,21 @@
         "type": "restaurant"
     },
     {
-        "address": "The Little Rose 37 Trumpington Street",
+        "address": "Estrada da Beira 614",
         "area": "centre",
         "food": "seafood",
         "id": "19223",
-        "introduction": "using the freshest seafood from the loch of the same name, loch fyne restaurants serve a variety of shellfish and smoked fish all of which are complimented by an extensive wine list. Non-seafood dishes are also available",
         "location": [
-            52.200693,
-            0.119744
+            40.194517,
+            -8.402417
         ],
-        "name": "loch fyne",
-        "phone": "01223362433",
-        "postcode": "cb21qy",
+        "name": "Napolitano",
+        "phone": "239701422",
+        "postcode": "3030-173",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19223",
+        "nameMultiWoz": "loch fyne"
     },
     {
         "address": "Av. Dom Afonso Henriques",
