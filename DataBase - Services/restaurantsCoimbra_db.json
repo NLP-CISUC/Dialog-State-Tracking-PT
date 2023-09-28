@@ -1273,20 +1273,21 @@
         "nameMultiWoz": "la mimosa"
     },
     {
-        "address": "39 Burleigh Street City Centre",
+        "address": "Rua Dr. Alberto Castro 9",
         "area": "centre",
-        "food": "chinese",
+        "food": "mediterranean",
         "id": "19173",
-        "introduction": "shanghai family restaurant comprises a french cafe on the lower level and a chinese restaurant upstairs",
         "location": [
-            52.206111,
-            0.132969
+            40.193372,
+            -8.404428
         ],
-        "name": "shanghai family restaurant",
-        "phone": "01223301761",
-        "postcode": "cb11dg",
+        "name": "Virabrasa",
+        "phone": "239780666",
+        "postcode": "3030-179",
         "pricerange": "moderate",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19173",
+        "nameMultiWoz": "shanghai family restaurant"
     },
     {
         "address": "Estrada da Beira 614",
