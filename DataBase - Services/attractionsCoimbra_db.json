@@ -5,8 +5,8 @@
         "entrance fee": "?",
         "id": "1",
         "location": [
-            0,
-            0
+            40.20647388971516, 
+            -8.405875777413344
         ],
         "name": "Associação de Natação de Coimbra",
         "openhours": "?",
@@ -23,8 +23,8 @@
         "entrance fee": "?",
         "id": "2",
         "location": [
-            40.193615,
-            -8.412012
+            40.193392065148444, 
+            -8.411970689397355
         ],
         "name": "Teatrão",
         "openhours": "?",
@@ -38,17 +38,17 @@
     {
         "address": "Paço das Escolas da Universidade de Coimbra",
         "area": "centre",
-        "entrance fee": "free",
+        "entrance fee": "?",
         "id": "3",
         "location": [
-            40.207175,
-            -8.426411
+            40.20703706070307, 
+            -8.426385364444906
         ],
         "name": "Biblioteca Joanina",
         "openhours": "Está aberto, todos os dias, das 09:00 às 16:40 e às segundas-feiras das 10:00 às 16:40.",
         "phone": "239247280",
-        "postcode": "3000-295",
-        "pricerange": "free",
+        "postcode": "3000-233",
+        "pricerange": "?",
         "type": "architecture",
         "idMultiWoz": "3",
         "nameMultiWoz": "all saints church"
@@ -59,8 +59,8 @@
         "entrance fee": "?",
         "id": "4",
         "location": [
-            40.208206,
-            -8.420425
+            40.20813715354486, 
+            -8.420415644477462
         ],
         "name": "NB Club",
         "openhours": "Abre das 23:59h às 07:30h, exceto segundas-feiras e quartas-feiras.",
@@ -77,8 +77,8 @@
         "entrance fee": "free",
         "id": "5",
         "location": [
-            40.209083,
-            -8.425530
+            40.20874147271358, 
+            -8.425587129263183
         ],
         "name": "Museu nacional Machado de Castro",
         "openhours": "Aberto todos os dias das 10:00h às 18:00h, exceto às segundas-feiras.",
@@ -95,8 +95,8 @@
         "entrance fee": "free",
         "id": "6",
         "location": [
-            40.205916,
-            -8.401204
+            40.20528175157537, 
+            -8.400472961984969
         ],
         "name": "Galeria sete",
         "openhours": "aberto de segunda a sábado das 11:00 às 13:00 e das 14:30 às 19:30, exceto aos domingos.",
@@ -113,8 +113,8 @@
         "entrance fee": "free",
         "id": "7",
         "location": [
-            40.201728,
-            -8.433514
+            40.20160737175403, 
+            -8.433384573880447
         ],
         "name": "Galeria Santa Clara",
         "openhours": "Aberto todos os dias das 13:00h às 01:00h, exceto às segundas-feiras.",
@@ -131,11 +131,11 @@
         "entrance fee": "?",
         "id": "8",
         "location": [
-            52.21247,
-            0.15619
+            40.20582317302589, 
+            -8.428792716597375
         ],
         "name": "O Basófias",
-        "openhours": "?",
+        "openhours": "De Terça-feira a Domingo: Horário de Inverno: 15h00m; 16h00m e 17h00m (exceto se com refeições a bordo) Horário de Verão: 15h00m; 16h00m; 17h00m; 18h00m e 19h00m (exceto se com refeições a bordo)",
         "phone": "969830664",
         "postcode": "3000-337",
         "pricerange": "?",
@@ -149,8 +149,8 @@
         "entrance fee": "Depende da idade, os preços vão desde os 8€ aos 14,40€",
         "id": "9",
         "location": [
-            40.197218,
-            -8.429316
+            40.196888976089596, 
+            -8.429994735150222
         ],
         "name": "Exploratório - Centro Ciência Viva",
         "openhours": "Aberto todos os dias das 10:00 às 13:00 e das 14:00 às 18:00.",
@@ -167,8 +167,8 @@
         "entrance fee": "?",
         "id": "10",
         "location": [
-            40.209600,
-            -8.421676
+            40.20950380652227, 
+            -8.421666359771296
         ],
         "name": "Coimbra Impro",
         "openhours": "?",
@@ -185,11 +185,11 @@
         "entrance fee": "free",
         "id": "11",
         "location": [
-            40.206228,
-            -8.419311
+            40.206048615747655, 
+            -8.419295994458237
         ],
         "name": "Casa Museu Bissaya Barreto",
-        "openhours": "?",
+        "openhours": "terça a sexta-feira: 11H00 – 13H00  ; 15H00 – 18H00. Encerra às segundas, fins de semana e feriados",
         "phone": "239853800",
         "postcode": "3000-219",
         "pricerange": "free",
@@ -203,8 +203,8 @@
         "entrance fee": "free",
         "id": "12",
         "location": [
-            40.361033,
-            -7.902002
+            40.363133359375055, 
+            -7.902708759643989
         ],
         "name": "Museu do azeite",
         "openhours": "Aberto das 10h às 18h, exceto às segundas-feiras.",
@@ -221,8 +221,8 @@
         "entrance fee": "free",
         "id": "13",
         "location": [
-            40.209081,
-            -8.428777
+            40.20887271094, 
+            -8.429189031619925
         ],
         "name": "Centro de Arte Contemporânea de Coimbra",
         "openhours": "Aberto todos os dias das 10:00h às 18:00h, exceto às segundas-feiras.",
@@ -236,17 +236,17 @@
     {
         "address": "the old pumping station, cheddars lane",
         "area": "east",
-        "entrance fee": "",
+        "entrance fee": "?",
         "id": "14",
         "location": [
-            52.21247,
-            0.15619
+            40.21154062548753, 
+            -8.428215761949543
         ],
         "name": "Sala Da Cidade",
-        "openhours": "",
+        "openhours": "?",
         "phone": "239857500",
         "postcode": "3000-274",
-        "pricerange": "expensive",
+        "pricerange": "?",
         "type": "museum",
         "idMultiWoz": "14",
         "nameMultiWoz": "cambridge museum of technology"
@@ -254,11 +254,11 @@
     {
         "address": "Calçada Martim de Freitas",
         "area": "centre",
-        "entrance fee": "3",
+        "entrance fee": "free",
         "id": "15",
         "location": [
-            40.205660,
-            -8.420802
+            40.20548211004416, 
+            -8.42071614761158
         ],
         "name": "Jardim Botânico da Universidade de Coimbra",
         "openhours": "Está aberto, todos os dias, das 09:00 às 17:30.",
@@ -275,8 +275,8 @@
         "entrance fee": "free",
         "id": "16",
         "location": [
-            40.204934,
-            -8.427677
+            40.204839704151766, 
+            -8.42776281447149
         ],
         "name": "Museu da Água",
         "openhours": "Abre das 10:00 às 13:00 e das 14:00 às 18:00 todos os dias, excepto aos fins-de-semana.",
@@ -293,8 +293,8 @@
         "entrance fee": "free",
         "id": "17",
         "location": [
-            40.209631,
-            -8.418091
+            40.209379801655125, 
+            -8.417926240686816
         ],
         "name": "Jardim da Sereia",
         "openhours": "Aberto 24 horas.",
@@ -311,8 +311,8 @@
         "entrance fee": "entrada pontual de 2.50€ para adultos",
         "id": "18",
         "location": [
-            40.205520,
-            -8.407560
+            40.20539987580766, 
+            -8.40753990397851
         ],
         "name": "Complexo Olímpico de Piscinas",
         "openhours": "aberto de segunda a sexta das 06:45 às 23:00, aos sábados das 08:00 às 19:00 e aos domingos das 08:00 às 13:15.",
@@ -329,8 +329,8 @@
         "entrance fee": "free",
         "id": "19",
         "location": [
-            40.214988,
-            -8.426998
+            40.20016977150388, 
+            -8.421854988689415
         ],
         "name": "Colégio Rainha Santa Isabel",
         "openhours": "Aberto todos os dias, 24h.",
@@ -347,8 +347,8 @@
         "entrance fee": "free",
         "id": "20",
         "location": [
-            40.211256,
-            -8.452407
+            40.211138077298656, 
+            -8.452875791822793
         ],
         "name": "Escola Superior Agrária de Coimbra",
         "openhours": "aberto de segunda a sexta das 09:00 às 12:30 e das 14:00 às 18:00.",
@@ -362,14 +362,14 @@
     {
         "address": "Estúdio 2, Av. Sá da Bandeira 33 Piso 0",
         "area": "east",
-        "entrance fee": "?",
+        "entrance fee": "Normal: 6€, Reduzido: 4.5€, Matinés Infantis/Sócios CCP/Curtas: 2€",
         "id": "21",
         "location": [
-            40.211818,
-            -8.423288
+            40.211591605447914, 
+            -8.423210557979523
         ],
         "name": "Casa do Cinema de Coimbra",
-        "openhours": "?",
+        "openhours": "14:30 até às 21:30 todas as semanas ",
         "phone": "911081317",
         "postcode": "3000-351",
         "pricerange": "?",
@@ -383,8 +383,8 @@
         "entrance fee": "free",
         "id": "22",
         "location": [
-            40.210371,
-            -8.424046
+            40.21005249329711, 
+            -8.424382459190495
         ],
         "name": "Colégio de Jesus",
         "openhours": "Aberto todos os dias das 10:30h às 18:30h.",
@@ -401,8 +401,8 @@
         "entrance fee": "free",
         "id": "23",
         "location": [
-            40.219670,
-            -8.417394
+            40.21938914724836, 
+            -8.41714026485344
         ],
         "name": "Faculdade de Farmácia da Universidade de Coimbra",
         "openhours": "?",
@@ -416,15 +416,15 @@
     {
         "address": "Av. Sá da Bandeira 33",
         "area": "centre",
-        "entrance fee": "5 pounds",
+        "entrance fee": "?",
         "id": "24",
         "location": [
-            52.195173,
-            0.131644
+            40.211617412374224, 
+            -8.423385959390682
         ],
         "name": "LIT",
-        "openhours": "-------",
-        "phone": "912642418",
+        "openhours": "terça-feira a sábado abertos desde as 23:59 até às 06:00. Domingo e segunda-feira encerrados.",
+        "phone": "912648418",
         "postcode": "3000-351",
         "pricerange": "moderate",
         "type": "nightclub",
@@ -437,8 +437,8 @@
         "entrance fee": "free",
         "id": "25",
         "location": [
-            40.208281,
-            -8.424232
+            40.2192596617212, 
+            -8.416458406099624
         ],
         "name": "Faculdade de Medicina",
         "openhours": "Aberto das 08 às 18 todos os dias, exceto sábados e domingos",
@@ -455,8 +455,8 @@
         "entrance fee": "free",
         "id": "26",
         "location": [
-            40.205423,
-            -8.405908
+            40.20531712333247, 
+            -8.405780421824876
         ],
         "name": "Escola Superior de Educação de Coimbra",
         "openhours": "Aberto das 08h às 23h todos os dias, exceto ao sábado que fecha às 18h30 e ao domingo está encerrado",
@@ -473,8 +473,8 @@
         "entrance fee": "free",
         "id": "27",
         "location": [
-            40.209418,
-            -8.423117
+            40.209311890921114, 
+            -8.423055302202494
         ],
         "name": "Colégio de Artes",
         "openhours": "Aberto das 09h às 17:30 todos os dias, exceto aos fins-de-semana",
@@ -491,11 +491,11 @@
         "entrance fee": "?",
         "id": "28",
         "location": [
-            52.21401,
-            0.14789
+            40.23400733110509, 
+            -8.442584414450543
         ],
         "name": "Feijão Verde Fun Park Coimbra",
-        "openhours": "?",
+        "openhours": "segunda a sexta das 14:00 às 19:00. Sábado e domingo das 10:00 às 13:00 e das 14:00 às 19:00",
         "phone": "911860007",
         "postcode": "3025-047",
         "pricerange": "?",
@@ -509,11 +509,11 @@
         "entrance fee": "free",
         "id": "29",
         "location": [
-            40.210398,
-            -8.429739
+            40.210837371160856, 
+            -8.42947891962989
         ],
         "name": "Galeria V",
-        "openhours": "?",
+        "openhours": "sábado e domingo abertos desde as 14:00 às 20:00",
         "phone": "?",
         "postcode": "3000-148",
         "pricerange": "free",
@@ -522,29 +522,13 @@
         "nameMultiWoz": "gallery at twelve a high street"
     },
     {
-        "address": "trinity street",
-        "area": "centre",
-        "entrance fee": "free",
-        "id": "30",
-        "location": [
-            52.205861,
-            0.117972
-        ],
-        "name": "gonville and caius college",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223332400",
-        "postcode": "cb21ta",
-        "pricerange": "free",
-        "type": "college"
-    },
-    {
         "address": "Rua das Parreiras",
         "area": "centre",
         "entrance fee": "4 euros",
         "id": "31",
         "location": [
-            40.202934,
-            -8.433431
+            40.20245403182364, 
+            -8.434102299642621
         ],
         "name": "Mosteiro de Santa Clara",
         "openhours": "De 1 de Abril a 14 de Outubro está aberto de terça-feira a domingo, das 10:00 às 18:00 e de 15 de Outubro a 31 de Março de terça-feira a domingo das 09:00 às 17:00",
@@ -561,8 +545,8 @@
         "entrance fee": "free",
         "id": "32",
         "location": [
-            40.209623,
-            -8.429345
+            40.209576387844216,
+            -8.429135658942057
         ],
         "name": "Igreja de São Tiago",
         "openhours": "Aberto todos os dias das 08:00h às 20:00h.",
@@ -579,11 +563,11 @@
         "entrance fee": "free",
         "id": "33",
         "location": [
-            40.209974,
-            -8.427920
+            40.20975893804898, 
+            -8.42692685229823
         ],
         "name": "Colégio de São Caetano",
-        "openhours": "",
+        "openhours": "?",
         "phone": "239823405",
         "postcode": "3000-129",
         "pricerange": "free",
@@ -592,36 +576,20 @@
         "nameMultiWoz": "hughes hall"
     },
     {
-        "address": "jesus lane",
-        "area": "centre",
-        "entrance fee": "free",
-        "id": "34",
-        "location": [
-            52.209353,
-            0.125342
-        ],
-        "name": "jesus college",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223339485",
-        "postcode": "cb58bl",
-        "pricerange": "free",
-        "type": "college"
-    },
-    {
         "address": "R. Edmundo Bettencourt 15 16",
         "area": "north",
         "entrance fee": "?",
         "id": "35",
         "location": [
-            40.21120023743851,
-            -8.40566354506158
+            40.21097676897627, 
+            -8.405728814816722
         ],
         "name": "Piscina da Quinta de São Jerónimo",
         "openhours": "?",
         "phone": "919191905",
         "postcode": "3000-606",
         "pricerange": "?",
-        "type": "swimmingpool"
+        "type": "swimmingpool",
         "idMultiWoz": "35",
         "nameMultiWoz": "jesus green outdoor pool"
     },
@@ -631,8 +599,8 @@
         "entrance fee": "?",
         "id": "36",
         "location": [
-            40.210215,
-            -8.419710
+            40.210022960787434, 
+            -8.419814726979343
         ],
         "name": "mandarim",
         "openhours": "Aberto das 14h às 06h, exceto aos domingos",
@@ -649,8 +617,8 @@
         "entrance fee": "12.5",
         "id": "37",
         "location": [
-            40.1237,
-            -8.2525
+            40.21018358247295,
+            -8.424124913838378
         ],
         "name": "Museu da Ciência da Universidade de Coimbra",
         "openhours": "aberto todos os dias das 09:00h às 13:00h e das 14:00h às 17:00h",
@@ -667,11 +635,11 @@
         "entrance fee": "free",
         "id": "38",
         "location": [
-            40.208964,
-            -8.422757
+            40.20894563313486,
+            -8.42271199185187
         ],
         "name": "Colégio de São Jerónimo",
-        "openhours": "",
+        "openhours": "?",
         "phone": "239855570",
         "postcode": "3000-143",
         "pricerange": "free",
@@ -685,8 +653,7 @@
         "entrance fee": "?",
         "id": "39",
         "location": [
-            0,
-            0
+            40.23911933709158, -8.439232553093124
         ],
         "name": "Piscinas Municipais Rui Abreu",
         "openhours": "?",
@@ -698,29 +665,13 @@
         "nameMultiWoz": "kings hedges learner pool"
     },
     {
-        "address": "little saint mary's lane",
-        "area": "centre",
-        "entrance fee": "free",
-        "id": "40",
-        "location": [
-            52.2005111111111,
-            0.119883333333333
-        ],
-        "name": "little saint mary's church",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m.",
-        "phone": "01223366202",
-        "postcode": "cb21qy",
-        "pricerange": "free",
-        "type": "architecture"
-    },
-    {
         "address": "Av. Marnoco e Sousa 54",
         "area": "west",
         "entrance fee": "free",
         "id": "41",
         "location": [
-           40.206277,
-            -8.414790
+            40.20607266665077, 
+            -8.414854698981497
         ],
         "name": "Memorial da Irmã Lúcia",
         "openhours": "Aberto todos os dias, das 10h30 às 12h e das 14h30 às 17h30, exceto aos domingos",
@@ -737,11 +688,11 @@
         "entrance fee": "free",
         "id": "42",
         "location": [
-             40.214937,
-            -8.409095
+            40.21491722867079, 
+            -8.40920302979446
         ],
         "name": "Faculdade de Economia da Universidade de Coimbra",
-        "openhours": "",
+        "openhours": "?",
         "phone": "239790500",
         "postcode": "3004-512",
         "pricerange": "free",
@@ -755,8 +706,8 @@
         "entrance fee": "free",
         "id": "43",
         "location": [
-            40.201617,
-            -8.425154
+            40.20132968040846, 
+            -8.425102341709513
         ],
         "name": "Parque Verde do Mondego",
         "openhours": "always",
@@ -773,8 +724,8 @@
         "entrance fee": "?",
         "id": "44",
         "location": [
-            40.209535,
-            -8.420371
+            40.209308972304676, 
+            -8.420243961147303
         ],
         "name": "Teatro Académico de Gil Vicente",
         "openhours": "Aberto todos os dias das 10:00h às 02:00h.",
@@ -791,8 +742,8 @@
         "entrance fee": "free",
         "id": "45",
         "location": [
-            40.201477,
-            -8.432338
+            40.201516366375685, 
+            -8.432607390302906
         ],
         "name": "Centro de Interpretação de Santa Clara-a-Velha",
         "openhours": "Aberto das 10h às 18h, exceto às segundas-feiras",
@@ -809,8 +760,8 @@
         "entrance fee": "free",
         "id": "46",
         "location": [
-            40.346653,
-            -8.591327
+            40.34595465020425, 
+            -8.592688241879808
         ],
         "name": "Museu da Pedra",
         "openhours": "Aberto das 10h às 18h, exceto aos fins de semana",
@@ -827,8 +778,8 @@
         "entrance fee": "?",
         "id": "47",
         "location": [
-            40.209165,
-            -8.427844
+            40.2087278137724, 
+            -8.427949570400395
         ],
         "name": "Quebra bar",
         "openhours": "Está aberto de segunda a sexta das 12:00 até às 04:00 e aos sábados das 14:00 às 00:00.",
@@ -845,8 +796,8 @@
         "entrance fee": "free",
         "id": "48",
         "location": [
-            40.207740,
-            -8.426082
+            40.20775817459889, 
+            -8.42637040677971
         ],
         "name": "Paço das Escolas",
         "openhours": "Aberto todos os dias das 09:00h às 19:00h.",
@@ -863,8 +814,8 @@
         "entrance fee": "?",
         "id": "49",
         "location": [
-            40.209735,
-            -8.453801
+            40.209538912428506, 
+            -8.453957526745773
         ],
         "name": "Piscinas Municipais Luís Lopes da Conceição",
         "openhours": "?",
@@ -881,8 +832,8 @@
         "entrance fee": "free",
         "id": "50",
         "location": [
-            40.197915,
-            -8.460940
+            40.218423849912924, 
+            -8.409747953885002
         ],
         "name": "Escola Superior de Enfermagem de Coimbra",
         "openhours": "Aberto das 08h às 21h, exceto aos domingos.",
@@ -899,8 +850,8 @@
         "entrance fee": "free",
         "id": "51",
         "location": [
-            40.210165,
-            -8.428165
+            40.2100405469064, 
+            -8.428237579426433
         ],
         "name": "Museu da Santa Casa da Misericórdia",
         "openhours": "Aberto das 10h às 17h todos os dias",
@@ -917,8 +868,8 @@
         "entrance fee": "free",
         "id": "52",
         "location": [
-            40.208816,
-            -8.428961
+            40.208538014762695, 
+            -8.428964100310074
         ],
         "name": "Museu Municipal de Coimbra",
         "openhours": "Terça a sexta: 10h00 – 18h00, Fim-de-semana: 10h00 | 13h00 – 14h00 | 18h00 Encerra: segundas e feriados.",
@@ -932,17 +883,17 @@
     {
         "address": " R. do Norte 23",
         "area": "west",
-        "entrance fee": "2.50 $",
+        "entrance fee": "free",
         "id": "53",
         "location": [
-            0,
-            0
+            40.2076287410931, 
+            -8.426603542698706
         ],
         "name": "Torre da Universidade de Coimbra",
-        "openhours": "-----",
-        "phone": "01223335511",
-        "postcode": "cb39et",
-        "pricerange": "moderate",
+        "openhours": "segunda a domingo das 9:00 até às 18:00",
+        "phone": "239 242 744",
+        "postcode": "3000-295",
+        "pricerange": "free",
         "type": "college",
         "idMultiWoz": "53",
         "nameMultiWoz": "queens' college"
@@ -953,8 +904,8 @@
         "entrance fee": "free",
         "id": "54",
         "location": [
-            40.205507,
-            -8.426187
+            40.205395641835196, 
+            -8.426084716856716
         ],
         "name": "Galerias Topazio",
         "openhours": "Aberto todos os dias das 10:00h às 19:30h.",
@@ -971,8 +922,8 @@
         "entrance fee": "?",
         "id": "55",
         "location": [
-            40.206087,
-            -8.428863
+            40.20562834509107, 
+            -8.428364390341152
         ],
         "name": "Serranas do Mondego",
         "openhours": "?",
@@ -989,8 +940,8 @@
         "entrance fee": "free",
         "id": "56",
         "location": [
-            40.214008,
-            -8.432018
+            40.21391919926981, 
+            -8.431910405797902
         ],
         "name": "Casa da Mutualidade",
         "openhours": "aberto de segunda a sexta das 09:00 às 13:00 e das 14:00 às 18:00.",
@@ -1002,29 +953,13 @@
         "nameMultiWoz": "ruskin gallery"
     },
     {
-        "address": "the belfast yard, coldham's road",
-        "area": "east",
-        "entrance fee": "free",
-        "id": "57",
-        "location": [
-            52.20858,
-            0.148702
-        ],
-        "name": "saint barnabas press gallery",
-        "openhours": "?",
-        "phone": "01223902116",
-        "postcode": "cb13ew",
-        "pricerange": "free",
-        "type": "museum"
-    },
-    {
         "address": "Rua do Brasil 41",
         "area": "centre",
         "entrance fee": "free",
         "id": "58",
         "location": [
-            40.200248,
-            -8.421677
+            40.20024543953778, 
+            -8.42160585479156
         ],
         "name": "Colégio Rainha Santa Isabel",
         "openhours": "Aberto 24 horas.",
@@ -1038,17 +973,17 @@
     {
         "address": "Praça Dom Dinis",
         "area": "centre",
-        "entrance fee": "2.5 $",
+        "entrance fee": "free",
         "id": "59",
         "location": [
-            0,
-            0
+            40.209574116204614, 
+            -8.42305525916378
         ],
         "name": "Real Colégio das Artes e Humanidades",
-        "openhours": "---------------",
-        "phone": "----",
-        "postcode": "----",
-        "pricerange": "-----",
+        "openhours": "aberto de segunda a sexta das 09:00 às 17:30. Fins de semana encerrado.",
+        "phone": "239 857 019",
+        "postcode": "3000-143",
+        "pricerange": "free",
         "type": "college",
         "idMultiWoz": "59",
         "nameMultiWoz": "saint john's college"
@@ -1059,11 +994,11 @@
         "entrance fee": "free",
         "id": "60",
         "location": [
-            40.207330,
-            -8.426552
+            40.20694041019676, 
+            -8.426641574244806
         ],
         "name": "Prisão académica",
-        "openhours": "",
+        "openhours": "?",
         "phone": "?",
         "postcode": "3040-202",
         "pricerange": "free",
@@ -1077,8 +1012,8 @@
         "entrance fee": "?",
         "id": "61",
         "location": [
-            40.191806,
-            -8.387670
+            40.19176991538472, 
+            -8.38781481629303
         ],
         "name": "O Pioneiro do Mondego",
         "openhours": "?",
@@ -1095,8 +1030,8 @@
         "entrance fee": "free",
         "id": "62",
         "location": [
-            40.2007204,
-            -8.429360
+            40.19837800161769, 
+            -8.42922277792717
         ],
         "name": "Parque do Choupalinho",
         "openhours": "Sempre aberto",
@@ -1108,45 +1043,13 @@
         "nameMultiWoz": "sheep's green and lammas land park fen causeway"
     },
     {
-        "address": "sidney street",
-        "area": "centre",
-        "entrance fee": "free",
-        "id": "63",
-        "location": [
-            52.207464,
-            0.121342
-        ],
-        "name": "sidney sussex college",
-        "openhours": "it opens daily from 9 a.m. to 5 p.m. except during easter term",
-        "phone": "01223338800",
-        "postcode": "cb23hu",
-        "pricerange": "free",
-        "type": "college"
-    },
-    {
-        "address": "1-6 corn exchange street",
-        "area": "centre",
-        "entrance fee": "4 pounds",
-        "id": "64",
-        "location": [
-            52.203878,
-            0.12044
-        ],
-        "name": "soul tree nightclub",
-        "openhours": "it opens from 9:30 p.m. to 02:00 a.m. from sunday to tuesday, from 9:00 p.m. to 02:00 a.m. on wednesday, and from 9:00 p.m. to 02:30 a.m. from thursday to saturday",
-        "phone": "01223477900",
-        "postcode": "cb23qf",
-        "pricerange": "cheap",
-        "type": "nightclub"
-    },
-    {
         "address": "R. Bartolomeu Dias 22",
         "area": "south",
         "entrance fee": "?",
         "id": "65",
         "location": [
-            40.198478,
-            -8.407231
+            40.197498382616324, 
+            -8.406623620033997
         ],
         "name": "Tic Tac Boom Escape Room",
         "openhours": "De segunda a sexta abre às 18h30 e fecha às 22h30. Aos sábados e domingos abre às 10h30 e fecha às 22h30.",
@@ -1163,8 +1066,8 @@
         "entrance fee": "?",
         "id": "66",
         "location": [
-            40.209846,
-            -8.420960
+            40.20963743243997, 
+            -8.420992500959894
         ],
         "name": "Círculo de Iniciação Teatral da Academia de Coimbra",
         "openhours": "?",
@@ -1181,8 +1084,8 @@
         "entrance fee": "free",
         "id": "67",
         "location": [
-            40.206435,
-            -8.430249
+            40.20589473317477, 
+            -8.430510353403358
         ],
         "name": "Ponte de Santa Clara",
         "openhours": "Aberto todos os dias, 24h.",
@@ -1199,11 +1102,11 @@
         "entrance fee": "?",
         "id": "68",
         "location": [
-            0,
-            0
+            40.20576516818862, 
+            -8.434490880145121
         ],
         "name": "Estádio Universitário de Coimbra",
-        "openhours": " 09h00 ",
+        "openhours": "?",
         "phone": "239 247 671",
         "postcode": "3040-256",
         "pricerange": "?",
@@ -1212,29 +1115,13 @@
         "nameMultiWoz": "the cherry hinton village centre"
     },
     {
-        "address": "8 market passage",
-        "area": "centre",
-        "entrance fee": "5 pounds",
-        "id": "69",
-        "location": [
-            52.206144,
-            0.120283
-        ],
-        "name": "the fez club",
-        "openhours": "it opens on monday from 9 p.m. to 2 a.m.. it is closed on tuesday. from wednesday to saturday it opens from 9 p.m. to 2 a.m. and it is closed on sunday",
-        "phone": "01223519224",
-        "postcode": "cb23hx",
-        "pricerange": "moderate",
-        "type": "nightclub"
-    },
-    {
         "address": "Colégio de São Jerónimo",
         "area": "centre",
         "entrance fee": "free",
         "id": "70",
         "location": [
-            40.210131,
-            -8.424132
+            40.20989042117406, 
+            -8.424297690085714
         ],
         "name": "Museu Académico",
         "openhours": "aberto das 10h às 12h30 e das 14h às 17h. Fechado aos fins-de-semana.",
@@ -1251,8 +1138,8 @@
         "entrance fee": "?",
         "id": "71",
         "location": [
-            40.211910,
-            -8.423361
+            40.21165899969214, 
+            -8.423383482543548
         ],
         "name": "Casa do Cinema de Coimbra",
         "openhours": "?",
@@ -1269,8 +1156,8 @@
         "entrance fee": "?",
         "id": "72",
         "location": [
-            40.210659,
-            -8.430123
+            40.21044838525801, 
+            -8.430191780609162
         ],
         "name": "Salão Brazil",
         "openhours": "?",
@@ -1287,8 +1174,8 @@
         "entrance fee": "?",
         "id": "73",
         "location": [
-            40.172749,
-            -8.452760
+            40.17241458523875, 
+            -8.452912806074538
         ],
         "name": "Cobra Dourada",
         "openhours": "Aberto de terça a sábado das 23:00 às 05:00. Às segundas e domingos encerrado.",
@@ -1305,8 +1192,8 @@
         "entrance fee": "free",
         "id": "74",
         "location": [
-            40.235305,
-            -8.417096
+            40.23466559536124, 
+            -8.417032313494518
         ],
         "name": "Escola Universitária Vasco da Gama",
         "openhours": "das 08h às 20h de segunda a sexta. Encerrado aos fins-de-semana.",
@@ -1323,8 +1210,8 @@
         "entrance fee": "?",
         "id": "75",
         "location": [
-            52.20571,
-            0.131061
+            40.20444834796168, 
+            -8.407644675171436
         ],
         "name": "Cinemas Nos Alma Shopping",
         "openhours": "?",
@@ -1341,8 +1228,8 @@
         "entrance fee": "free",
         "id": "76",
         "location": [
-            40.204864,
-            -8.427234
+            40.20707063443692, 
+            -8.42956614424672
         ],
         "name": "Parque Dr. Manuel Braga",
         "openhours": "always",
@@ -1359,8 +1246,8 @@
         "entrance fee": "?",
         "id": "77",
         "location": [
-            40.208672,
-            -8.429115
+            40.20853985709332, 
+            -8.42913694008235
         ],
         "name": "Brain maze",
         "openhours": "Aberto todos os dias das 11:00 às 23:00",
@@ -1374,17 +1261,17 @@
     {
         "address": "R. Fernando Pessoa 3, Coimbra",
         "area": "centre",
-        "entrance fee": "free",
+        "entrance fee": "?",
         "id": "78",
         "location": [
-            52.203117,
-            0.118928
+            40.21552301679324, 
+            -8.406060682221188
         ],
         "name": "Museu Miguel Torga",
-        "openhours": "",
-        "phone": "239781345",
-        "postcode": "cb23rh",
-        "pricerange": "free",
+        "openhours": "segunda a sexta das 14:30 às 17:00. Sábado e domingo encerrado",
+        "phone": "239702630",
+        "postcode": "3000-170",
+        "pricerange": "?",
         "type": "museum",
         "idMultiWoz": "78",
         "nameMultiWoz": "whipple museum of the history of science"
@@ -1395,13 +1282,13 @@
         "entrance fee": "free",
         "id": "79",
         "location": [
-            40.148943,
-            -8.859401
+            40.14719578191049, 
+            -8.85832892244589
         ],
         "name": "Casa do Paço",
         "openhours": "Aberto de terça a sábado das 10h às 17h",
         "phone": "966913607",
-        "postcode": "cb12lj",
+        "postcode": "3080-072",
         "pricerange": "free",
         "type": "museum",
         "idMultiWoz": "79",
