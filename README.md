@@ -1,7 +1,7 @@
 # MultiWOZpt
 Portuguese Dialogue Corpus Adapted from MultiWOZ 2.2 Dataset 
 
-The creation of the MultiWOZpt 0.1 dataset (the first version) was based on the manual adaptation and translation of the 512 test dialogues present in the English MultiWOZ dataset. These dialogues include five services, namely:
+The creation of the MultiWOZ-PT dataset was based on the manual adaptation and translation of the test dialogues present in the English MultiWOZ dataset. These dialogues include five services, namely:
 + Attractions
 + Hotels
 + Restaurants
@@ -14,3 +14,5 @@ The adaptation part encompassed adjusting the five Cambridge services present in
 
 # Versions
 dialogos.json(12/07/2023) -> The First version of the dataset contains 512 test dialogues, 1003 services, and 3240 intents. The dialogues were translated over the period from February to July.
+
+dadosCoimbra.json (3/10/2023) -> The second version of the dataset contains the 512 test dialogs from the first version + 488 test dialogs that have been added. It has 6226 intentions. The dialogs were translated from August to October.
