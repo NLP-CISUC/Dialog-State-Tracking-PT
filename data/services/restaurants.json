@@ -1,0 +1,1223 @@
+[
+    {
+        "address": "Praça República 30",
+        "area": "centre",
+        "food": "italian",
+        "id": "19210",
+        "introduction": "Pizza hut é uma grande cadeia com restaurantes em todo o país que oferece massas e saladas de pizzas de conveniência para comer ou levar",
+        "location": [
+            40.208706811654906, -8.419552135556076
+        ],
+        "name": "pizza hut",
+        "phone": "222444222",
+        "postcode": "3000-343",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19210",
+        "nameMultiWoz": "pizza hut city centre"
+    },
+    {
+        "address": "R. Dom Manuel I 3A",
+        "area": "east",
+        "food": "international",
+        "id": "30650",
+        "introduction": "Restaurante 39",
+        "location": [
+            40.202449263029365, -8.409058652669506
+        ],
+        "name": "Restaurante 39",
+        "phone": "239406675",
+        "postcode": "3030-320",
+        "pricerange": "cheap",
+        "signature": "",
+        "type": "restaurant",
+        "idMultiWoz": "30650",
+        "nameMultiWoz": "the missing sock"
+    },
+    {
+        "address": "Avenida Emidio Navarro N037",
+        "area": "centre",
+        "food": "indian",
+        "id": "19214",
+        "introduction": "Comida indo-paquistanesa",
+        "location": [
+            40.20676344499925, -8.428365465976677
+        ],
+        "name": "Gul&Guls",
+        "phone": "239094191",
+        "postcode": "3000-150",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19214",
+        "nameMultiWoz": "curry garden"
+    },
+    {
+        "address": "R. Cidade de Poitiers 155",
+        "area": "south",
+        "food": "chinese",
+        "id": "19192",
+        "location": [
+            40.22148774014195, -8.437603663834945
+        ],
+        "name": "Lung Wah",
+        "phone": "239492743",
+        "postcode": "3000-108",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19192",
+        "nameMultiWoz": "the good luck chinese food takeaway"
+    },
+    {
+        "address": "Terreiro da Erva 20",
+        "area": "south",
+        "food": "indian",
+        "id": "19191",
+        "introduction": "",
+        "location": [
+            40.21256236405676, -8.430933333456085
+        ],
+        "name": "Royal Tandoori",
+        "phone": "920203714",
+        "postcode": "3000-153",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19191",
+        "nameMultiWoz": "taj tandoori"
+    },
+    {
+        "address": "Rua Luís A. Duarte Santos Junto Ao Leroy Merlin",
+        "area": "east",
+        "food": "chinese",
+        "id": "19273",
+        "introduction": "Restaurante buffet com vários tipos de comida - Chinesa, Bar, Churrasco, Sushi, Grill, Japonesa.",
+        "location": [
+            40.194498583743034, -8.403549574985627
+        ],
+        "name": "Wok Mondego",
+        "phone": "239406286",
+        "postcode": "3030-403",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19273",
+        "nameMultiWoz": "yu garden"
+    },
+    {
+        "address": "Av. Dom Afonso Henriques 55",
+        "area": "centre",
+        "food": "italian",
+        "id": "19240",
+        "location": [
+            40.20922737004061, -8.41449328959571
+        ],
+        "name": "Fixepizza",
+        "phone": "239 066 936",
+        "postcode": "3000-011",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19240",
+        "nameMultiWoz": "stazione restaurant and coffee bar"
+    },
+    {
+        "address": "Rua Carlos Seixas",
+        "area": "east",
+        "food": "indian",
+        "id": "19270",
+        "location": [
+            40.19430631818551, -8.41773407093068
+        ],
+        "name": "Italian Indian Palace 2",
+        "phone": "239 704 011",
+        "postcode": "3030-177",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19270",
+        "nameMultiWoz": "curry prince"
+    },
+    {
+        "address": "Av. Calouste Gulbenkian 81",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19212",
+        "introduction": "?",
+        "location": [
+            40.21406889650471, -8.41541468625013
+        ],
+        "name": "Kang Le",
+        "phone": "239484305",
+        "postcode": "3000-090",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19121",
+        "nameMultiWoz": "charlie chan"
+    },
+    {
+        "address": "R. Padrão 240",
+        "area": "centre",
+        "food": "portuguese",
+        "id": "19211",
+        "introduction": "Um espaço onde o petisco não é apenas um simples petisco, mas sim um momento de descontração.",
+        "location": [
+            40.22308974332849, -8.43929053115483
+        ],
+        "name": "O Choupal",
+        "phone": "239823110",
+        "postcode": "3020-199",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19211",
+        "nameMultiWoz": "restaurant one seven"
+    },
+    {
+        "address": "Av. João das Regras 90",
+        "area": "centre",
+        "food": "italian",
+        "id": "19229",
+        "introduction": "",
+        "location": [
+            40.20449371985192, -8.43355519999893
+        ],
+        "name": "Ragu fresh pasta",
+        "phone": "913968625",
+        "postcode": "3040-256",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19229",
+        "nameMultiWoz": "Ask"
+    },
+    {
+        "address": "Av. José Bonifácio de Andrada e Silva 1",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19242",
+        "introduction": "",
+        "location": [
+            40.21108886540494, -8.442317913589257
+        ],
+        "name": "Hanami Sushi",
+        "phone": "239812079",
+        "postcode": "3040-389",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19242",
+        "nameMultiWoz": "jinling noodle bar"
+    },
+    {
+        "address": "Largo Quintal do Prior nº 2 a 4 Terreiro da Erva",
+        "area": "centre",
+        "food": "european",
+        "id": "3697",
+        "introduction": "Refeitro da Baixa",
+        "location": [
+            40.211523263833065, -8.431675899898822
+        ],
+        "name": "Refeitro da Baixa",
+        "phone": "963704038",
+        "postcode": "3000-339",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "3697",
+        "nameMultiWoz": "luca cucina bar"
+    },
+    {
+        "address": "Rua Dr. Martins de Carvalho, nº 10",
+        "area": "centre",
+        "food": "european",
+        "id": "10347",
+        "introduction": "?",
+        "location": [
+            40.21009633246212, -8.428422826103196
+        ],
+        "name": "Sete Restaurante",
+        "phone": "239060065",
+        "postcode": "3000-274",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "10347",
+        "nameMultiWoz": "riverside brasserie"
+    },
+    {
+        "address": "R. Irmã Lúcia 20",
+        "area": "south",
+        "food": "mexican",
+        "id": "19194",
+        "introduction": "Tequila, Margaritas & cocktails",
+        "location": [
+            40.19621844642488, -8.400241045807881
+        ],
+        "name": "Tu Taqueria Wey",
+        "phone": "972641681",
+        "postcode": "3030-491",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19194",
+        "nameMultiWoz": "chiquitito restaurant bar"
+    },
+    {
+        "address": "R. Dr. António J Almeida 277",
+        "area": "east",
+        "food": "italian",
+        "id": "12700",
+        "introduction": "?",
+        "location": [
+            40.21350490638742, -8.415407245458008
+        ],
+        "name": "Pizzaria Eurotropico",
+        "phone": "239484904",
+        "postcode": "3000-045",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "12700",
+        "nameMultiWoz": "prezzo"
+    },
+    {
+        "address": "Rua de Quebra Costas 19",
+        "area": "centre",
+        "food": "international",
+        "id": "19235",
+        "introduction": "?",
+        "location": [
+            40.20858395348485, -8.428931999712217
+        ],
+        "name": "Tapas nas Costas",
+        "phone": "239157425",
+        "postcode": "3000-340",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19235",
+        "nameMultiWoz": "the varsity restaurant"
+
+    },
+    {
+        "address": "R. do Corvo 8",
+        "area": "centre",
+        "food": "modern european",
+        "id": "19177",
+        "introduction": "?",
+        "location": [
+            40.21043008576424, -8.428704340701868
+        ],
+        "name": "Rio Mondego II",
+        "phone": "911878602",
+        "postcode": "3000-124",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19177",
+        "nameMultiWoz": "darrys cookhouse and wine shop"
+    },
+    {
+        "address": "Praça do Comércio 80",
+        "area": "west",
+        "food": "indian",
+        "id": "19257",
+        "location": [
+            40.209009,
+            -8.429305
+        ],
+        "name": "Chai2...",
+        "phone": "920305099",
+        "postcode": "3000-116",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19249",
+        "nameMultiWoz": "cocum"
+    },
+    {
+        "address": "Av. da Guarda Inglesa 63",
+        "area": "centre",
+        "food": "international",
+        "id": "14742",
+        "introduction": "?",
+        "location": [
+            40.207604658876, -8.438836183757966
+        ],
+        "name": "O Açude",
+        "phone": "239441638",
+        "postcode": "3040-193",
+        "pricerange": "moderate",
+        "signature": "?",
+        "type": "restaurant",
+        "idMultiWoz": "14742",
+        "nameMultiWoz": "bloomsbury restaurant"
+    },
+    {
+        "address": "Largo Dr. José Rodrigues",
+        "area": "west",
+        "food": "vietnamese",
+        "id": "19248",
+        "introduction": "?",
+        "location": [
+            40.20903345821553, -8.426475483711725
+        ],
+        "name": "Loggia",
+        "phone": "239853076",
+        "postcode": "3000-236",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19248",
+        "nameMultiWoz": "thanh binh"
+    },
+    {
+        "address": "Beco do Fanado 9",
+        "area": "centre",
+        "food": "spanish",
+        "id": "12566",
+        "introduction": "?",
+        "location": [
+            40.21193679017919, -8.430443789710473
+        ],
+        "name": "Cova Funda Espanhol",
+        "phone": "01223464630",
+        "postcode": "cb21uf",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "restaurant",
+        "nameMultiWoz": "la tasca"
+    },
+    {
+        "address": "R. Amorim Girão 15 loja 6",
+        "area": "north",
+        "food": "italian",
+        "id": "19259",
+        "introduction": "?",
+        "location": [
+            40.19539533242523, -8.431143597500855
+        ],
+        "name": "Da Vinci l'arte della pizza",
+        "phone": "934202873",
+        "postcode": "3040-092",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19259",
+        "nameMultiWoz": "da vinci pizzeria"
+    },
+    {
+        "address": "Rua Bernardo de Albuquerque n° 15B",
+        "area": "north",
+        "food": "french",
+        "id": "19264",
+        "location": [
+            40.214265544663846, -8.412992805425803
+        ],
+        "name": "BioEscolha",
+        "phone": "910840484",
+        "postcode": "3000-072",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19264",
+        "nameMultiWoz": "two two"
+    },
+    {
+        "address": "R. Lourenço de Almeida Azevedo 24",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19228",
+        "introduction": "?",
+        "location": [
+            40.2108736728862, -8.416290352341502
+        ],
+        "name": "Ishi",
+        "postcode": "3000-250",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19228",
+        "nameMultiWoz": "ugly duckling"
+    },
+    {
+        "address": "Rua Irma Lucia Lote 6, Loja 8",
+        "area": "centre",
+        "food": "japanese",
+        "id": "12638",
+        "introduction": "?",
+        "location": [
+            40.1955156030335, -8.400993855649606
+        ],
+        "name": "Peculiar Sushi or Steak",
+        "phone": "912525551",
+        "postcode": "3030-491",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "12638",
+        "nameMultiWoz": "wagamama"
+    },
+    {
+        "address": "R Paul Harris Quinta da Portela",
+        "area": "south",
+        "food": "portuguese",
+        "id": "12238",
+        "introduction": "?",
+        "location": [
+            40.183243072390084, -8.408819667733024
+        ],
+        "name": "Sol Do Mondego",
+        "phone": "01223327908",
+        "postcode": "cb17dy",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "12238",
+        "nameMultiWoz": "nandos"
+    },
+    {
+        "address": "Av. João das Regras 116",
+        "area": "centre",
+        "food": "british",
+        "id": "13071",
+        "introduction": "?",
+        "location": [
+            40.20394199930774, -8.433921299999618
+        ],
+        "name": "Quê-Bê Restaurante",
+        "phone": "239441489",
+        "postcode": "3040-256",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "13071",
+        "nameMultiWoz": "the oak bistro"
+    },
+    {
+        "address": "R. Padre Estevão Cabral 15M",
+        "area": "centre",
+        "food": "british",
+        "id": "19226",
+        "introduction": "?",
+        "location": [
+            40.21633920596543, -8.436939215692233
+        ],
+        "name": "Nova Briosa",
+        "phone": "239055443",
+        "postcode": "3000-178",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19226",
+        "nameMultiWoz": "the copper kettle"
+    },
+    {
+        "address": "Estrada de Eiras 360",
+        "area": "north",
+        "food": "chinese",
+        "id": "19197",
+        "location": [
+            40.230417955909694, -8.435477940786214
+        ],
+        "name": "Panda",
+        "phone": "963611854",
+        "postcode": "3025-069",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19197",
+        "nameMultiWoz": "the lucky star"
+    },
+    {
+        "address": "R. Dr. Manuel Rodrigues 17",
+        "area": "centre",
+        "food": "british",
+        "id": "19224",
+        "introduction": "?",
+        "location": [
+            40.21466433038168, -8.431680132461352
+        ],
+        "name": "Notes Bar & Kitchen",
+        "phone": "239151726",
+        "postcode": "3000-258",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19224",
+        "nameMultiWoz": "Fitzbillies restaurant"
+    },
+    {
+        "address": "Rua Joao de Deus Ramos, nº20",
+        "area": "centre",
+        "food": "korean",
+        "id": "19216",
+        "introduction": "?",
+        "location": [
+            40.203329450247246, -8.405232470988773
+        ],
+        "name": "Seoul Chicken",
+        "phone": "239131256",
+        "postcode": "3000-606",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19216",
+        "nameMultiWoz": "little seoul"
+    },
+    {
+        "address": "R. Alexandre Herculano 16C",
+        "area": "centre",
+        "food": "turkish",
+        "id": "19189",
+        "introduction": "?",
+        "location": [
+            40.20784213378752, -8.4196430954494
+        ],
+        "name": "Efes Kebab",
+        "phone": "925 834 332",
+        "postcode": "3000-019",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19189",
+        "nameMultiWoz": "meze bar"
+    },
+    {
+        "address": "Avenida Sá da Bandeira 50",
+        "area": "centre",
+        "food": "asian oriental",
+        "id": "19225",
+        "introduction": "Comida asiática e chinesa",
+        "location": [
+            40.21058592316434, -8.42389815281271
+        ],
+        "name": "Casa da Massa",
+        "phone": "960125887",
+        "postcode": "3000-350",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19225",
+        "nameMultiWoz": "dojo noodle bar"
+    },
+    {
+        "address": "Av. Cónego Urbano Duarte 6",
+        "area": "west",
+        "food": "italian",
+        "id": "19247",
+        "introduction": "?",
+        "location": [
+            40.193862693598874, -8.42059095149273
+        ],
+        "name": "Toscana",
+        "phone": "239405792",
+        "postcode": "3030-315",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19247",
+        "nameMultiWoz": "la margherita"
+    },
+    {
+        "address": "R. Dom João III nº83",
+        "area": "centre",
+        "food": "asian oriental",
+        "id": "19175",
+        "introduction": "?",
+        "location": [
+            40.20369563561185, -8.406555094837138
+        ],
+        "name": "SushiCome",
+        "phone": "239713084",
+        "postcode": "3030-329",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19175",
+        "nameMultiWoz": "yippee noodle bar"
+    },
+    {
+        "address": "Rua Joao de Deus Ramos 145",
+        "area": "east",
+        "food": "british",
+        "id": "14810",
+        "introduction": "?",
+        "location": [
+            40.20304628023067, -8.405010109545264
+        ],
+        "name": "Honorato",
+        "phone": "910054671",
+        "postcode": "3030-328",
+        "pricerange": "moderate",
+        "signature": "Hamburgers artesanais",
+        "type": "restaurant",
+        "idMultiWoz": "14810",
+        "nameMultiWoz": "saint johns chop house"
+    },
+    {
+        "address": "R. Gen. Humberto Delgado 207 303",
+        "area": "east",
+        "food": "italian",
+        "id": "19275",
+        "introduction": "A pizza hut é uma grande cadeia com restaurantes a nível nacional que oferece massas e saladas de pizzas para comer ou levar",
+        "location": [
+            40.205199673537535, -8.407602845515148
+        ],
+        "name": "Pizza Hut Alma Shopping",
+        "phone": "222444222",
+        "postcode": "3030-327",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19275",
+        "nameMultiWoz": "pizza hut fen ditton"
+    },
+    {
+        "address": "Av. José Bonifácio de Andrada e Silva 1",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19219",
+        "location": [
+            40.21152412782713, -8.442448973421774
+        ],
+        "name": "Tun Fon",
+        "phone": "239810784",
+        "postcode": "3040-389",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19129",
+        "nameMultiWoz": "golden house"
+    },
+    {
+        "address": "Largo do Romal 30",
+        "area": "centre",
+        "food": "asian oriental",
+        "id": "19215",
+        "introduction": "?",
+        "location": [
+            40.20797478692601, -8.43112697821474
+        ],
+        "name": "Izakaya Oni",
+        "phone": "912754762",
+        "postcode": "3000-347",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19215",
+        "nameMultiWoz": "j restaurant"
+    },
+    {
+        "address": "R. Dr. Rosa Falcão 38",
+        "area": "centre",
+        "food": "gastropub",
+        "id": "31390",
+        "introduction": "?",
+        "location": [
+            40.21279399611787, -8.432074889568701
+        ],
+        "name": "Allô Pizza",
+        "phone": "239840400",
+        "postcode": "3000-229",
+        "pricerange": "moderate",
+        "signature": "",
+        "type": "restaurant",
+        "idMultiWoz": "31390",
+        "nameMultiWoz": "the cow pizza kitchen and bar"
+    },
+    {
+        "address": "Rua Adro de Baixo 5 a 7",
+        "area": "centre",
+        "food": "gastropub",
+        "id": "19183",
+        "introduction": "Um lugar que convida à descoberta e partilha dos melhores vinhos e produtos da nossa gastronomia.",
+        "location": [
+            40.20812785852381, -8.430548683586522
+        ],
+        "name": "Devaneio Gastropub",
+        "phone": "239052754",
+        "postcode": "3030-439",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19183",
+        "nameMultiWoz": "Bedouin"
+    },
+    {
+        "address": "R. de Fernandes Thomas 45-49",
+        "area": "centre",
+        "food": "mediterranean",
+        "id": "19238",
+        "introduction": "?",
+        "location": [
+            40.20765005832254, -8.42855698965545
+        ],
+        "name": "Fangas maior",
+        "phone": "934093636",
+        "postcode": "3000-168",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19238",
+        "nameMultiWoz": "the gardenia"
+    },
+    {
+        "address": "Praça República 25C",
+        "area": "centre",
+        "food": "italian",
+        "id": "29652",
+        "introduction": "?",
+        "location": [
+            40.20863559555678, -8.42028932121263
+        ],
+        "name": "Mr. Pizza",
+        "phone": "239826666",
+        "postcode": "3000-343",
+        "pricerange": "cheap",
+        "signature": "",
+        "type": "restaurant",
+        "idMultiWoz": "29652",
+        "nameMultiWoz": "zizzi cambridge"
+    },
+    {
+        "address": "Rua Damião de Góis",
+        "area": "east",
+        "food": "portuguese",
+        "id": "19272",
+        "introduction": "Um restaurante de ar boémio, com livros e quadros por todo o lado, para se sentir como em casa. Cozinha de toque tradicional, com boas entradas e buffet de sobremesas.",
+        "location": [
+            40.204924552285, -8.394567265778514
+        ],
+        "name": "Casas do Bragal",
+        "phone": "918103988",
+        "postcode": "3030-388",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19272",
+        "nameMultiWoz": "pipasha restaurant"
+    },
+    {
+        "address": "Rua da Saragoca",
+        "area": "centre",
+        "food": "portuguese",
+        "id": "12237",
+        "introduction": "Um restaurante cheio de tradições e com mais de três décadas de história!",
+        "location": [
+            40.21232280619295, -8.425843879246331
+        ],
+        "name": "O Mimo",
+        "phone": "239823341",
+        "postcode": "3000-380",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "12237",
+        "nameMultiWoz": "nandos city centre"
+
+    },
+    {
+        "address": "Praça do Comércio 80",
+        "area": "north",
+        "food": "indian",
+        "id": "19257",
+        "location": [
+            40.20886581748414, -8.429135732252922
+        ],
+        "name": "Chai...",
+        "phone": "920305099",
+        "postcode": "3000-116",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19257",
+        "nameMultiWoz": "royal spice"
+    },
+    {
+        "address": "R. Cidade de Poitiers ",
+        "area": "north",
+        "food": "chinese",
+        "id": "19260",
+        "introduction": "?",
+        "location": [
+            40.22174916893597, -8.436573252157169
+        ],
+        "name": "Lung Wah",
+        "phone": "239 492 743",
+        "postcode": "3000-112",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz":"19260",
+        "nameMultiWoz":"hakka"
+    },
+    {
+        "address": "Rua Nova 30",
+        "area": "centre",
+        "food": "portuguese",
+        "id": "19237",
+        "introduction": "?",
+        "location": [
+            40.210864308584796, -8.43098257826155
+        ],
+        "name": "Bar Diligência",
+        "phone": "911763722",
+        "postcode": "3000-297",
+        "pricerange": "cheap",
+        "type": "restaurant",
+        "idMultiWoz": "19237",
+        "nameMultiWoz": "la raza"
+    },
+    {
+        "address": "Câmara Pestana 8",
+        "area": "east",
+        "food": "chinese",
+        "id": "19265",
+        "introduction": "Cozinha Tradicional Chinesa em Coimbra.",
+        "location": [
+            40.19390610906486, -8.406120614662035
+        ],
+        "name": "Fu Hua",
+        "phone": "239722076",
+        "postcode": "3030-163",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19265",
+        "nameMultiWoz": "golden wok"
+    },
+    {
+        "address": "R. Carlos Seixas 202",
+        "area": "south",
+        "food": "indian",
+        "id": "19267",
+        "location": [
+            40.19430631818551, -8.41773407093068
+        ],
+        "name": "Italian Indian Palace",
+        "phone": "239704011",
+        "postcode": "3030-177",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19267",
+        "nameMultiWoz": "meghna"
+    },
+    {
+        "address": "Largo Quintal do Prior nº 2 a 4 Terreiro da Erva",
+        "area": "centre",
+        "food": "mediterranean",
+        "id": "19268",
+        "location": [
+            40.21099839109297, -8.430989808037467 
+        ],
+        "name": "Refeitro da Baixa",
+        "phone": "963 704 038",
+        "postcode": "3000-339",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19268",
+        "nameMultiWoz": "la mimosa"
+    },
+    {
+        "address": "Rua Afonso Costa",
+        "area": "west",
+        "food": "thai",
+        "id": "19256",
+        "introduction": "?",
+        "location": [
+            "?","?"
+        ],
+        "name": "Dee Thai Food",
+        "phone": "+351 927 636 847",
+        "postcode": "3071-909",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19256",
+        "nameMultiWoz": "sala thong"
+    },
+    {
+        "address": "R. Dr. Manuel Rodrigues 39",
+        "area": "north",
+        "id": "19262",
+        "introduction": "Os restaurantes “Dux” são verdadeiras Tabernas Urbanas e ainda que tenham em comum a variedade de petiscos e vinhos, cada espaço tem uma identidade própria.",
+        "location": [
+            40.21331967191314, -8.432915352295765
+        ],
+        "name": "Dux Taberna Urbana",
+        "phone": "239093723",
+        "postcode": "3000-226",
+        "pricerange": "expensive",
+        "food": "european",
+        "type": "restaurant",
+        "idMultiWoz": "19262",
+        "nameMultiWoz": "city stop restaurant"
+    },
+    {
+        "address": "Avenida Mendes Silva",
+        "area": "north",
+        "food": "asian oriental",
+        "id": "19261",
+        "introduction": "?",
+        "location": [
+            40.195149798554, -8.410574567370988
+        ],
+        "name": "Shari Sushi Bar",
+        "phone": "916 386 888",
+        "postcode": "3030-193",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19261",
+        "nameMultiWoz": "saigon city"
+    },
+    {
+        "address": "Rua do Brasil 185",
+        "area": "south",
+        "food": "japanese",
+        "id": "19246",
+        "introduction": "Japonesa, Sushi, Asiático",
+        "location": [
+            40.201739025002276, -8.41574418594476
+        ],
+        "name": "Sake",
+        "phone": "239158209",
+        "postcode": "3030-175",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19246",
+        "nameMultiWoz": "peking restaurant"
+    },
+    {
+        "address": "Rua O Conimbricense",
+        "area": "south",
+        "food": "italian",
+        "id": "19195",
+        "introduction": "?",
+        "location": [
+            40.18346197151016, -8.406662067763738
+        ],
+        "name": "Osteria 44",
+        "phone": "910588187",
+        "postcode": "3030-504",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19195",
+        "nameMultiWoz": "frankie and bennys"
+    },
+    {
+        "address": "Rua Capitão Luís Gonzaga 27/29",
+        "area": "west",
+        "food": "european",
+        "id": "19252",
+        "introduction": "?",
+        "location": [
+            40.21631480772725, -8.407002315893282
+        ],
+        "name": "Compostu tavern",
+        "phone": "239703892",
+        "postcode": "3000-095",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19252",
+        "nameMultiWoz": "cambridge lodge restaurant"
+    },
+    {
+        "address": "Avenida Sá da Bandeira 91",
+        "food": "british",
+        "id": "19271",
+        "introduction": "Serve fast-food",
+        "location": [
+            40.210334389059824, -8.421055362038205
+        ],
+        "name": "Brunn's Diner",
+        "phone": "239065584",
+        "postcode": "3000-351",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19271",
+        "nameMultiWoz": "grafton hotel restaurant"
+    },
+    {
+        "address": "C. C. Forum Coimbra",
+        "area": "north",
+        "food": "chinese",
+        "id": "19258",
+        "introduction": "?",
+        "location": [
+            40.21179551036535, -8.44302490064078
+        ],
+        "name": "Monte Fuji",
+        "phone": "239 811 031",
+        "postcode": "3040-389",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19258",
+        "nameMultiWoz": "the hotpot"
+    },
+    {
+        "address": "Rua Fernandes Tomás N°51 e 53",
+        "area": "centre",
+        "food": "modern european",
+        "id": "7236",
+        "introduction": "?",
+        "location": [
+            40.20841523769871, -8.428253465897749
+        ],
+        "name": "Boutique Tapas & Petiscos",
+        "phone": "916 181 770",
+        "postcode": "3000-168",
+        "pricerange": "cheap",
+        "signature": "lobster mac and cheese",
+        "type": "restaurant",
+        "idMultiWoz": "7236",
+        "nameMultiWoz": "the river bar steakhouse and grill"
+    },
+    {
+        "address": "Rua da Sota 34 e 38",
+        "area": "centre",
+        "food": "italian",
+        "id": "19176",
+        "introduction": "Sítio acolhedor e os pratos tão deliciosos que nos aproximam da maravilhosa Itália!",
+        "location": [
+            40.20740981248447, -8.42999632587801
+        ],
+        "name": "Il Tartufo",
+        "phone": "239820546",
+        "postcode": "3000-392",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19176",
+        "nameMultiWoz": "clowns cafe"
+    },
+    {
+        "address": "R. Alexandre Herculano 16C",
+        "area": "centre",
+        "food": "turkish",
+        "id": "19232",
+        "introduction": "?",
+        "location": [
+            40.208895034540525, -8.422452741435913
+        ],
+        "name": "Istanbul Kebab",
+        "phone": "917648809",
+        "postcode": "3000-104",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19232",
+        "nameMultiWoz": "anatolia"
+    },
+    {
+        "address": "R. das Flores 3",
+        "area": "centre",
+        "food": "indian",
+        "id": "19187",
+        "location": [
+            40.210585,
+            -8.425723
+        ],
+        "name": "Mostarda Hilsa",
+        "phone": "920486290",
+        "postcode": "3000-442",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19187",
+        "nameMultiWoz": "panahar"
+    },
+    {
+        "address": "Rua Lourenço Almeida Azevedo",
+        "area": "centre",
+        "food": "chinese",
+        "id": "19174",
+        "introduction": "?",
+        "location": [
+            40.21097586883291, -8.416297604342091
+        ],
+        "name": "Kyoto House",
+        "phone": "239054029",
+        "postcode": "3000-250",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19174",
+        "nameMultiWoz": "tang chinese"
+    },
+    {
+        "address": "R. Almeida Garrett 1",
+        "area": "centre",
+        "food": "gastropub",
+        "id": "12482",
+        "introduction": "?",
+        "location": [
+            40.20897612058377, -8.419046328833993
+        ],
+        "name": "The Murphy's Irish Pub",
+        "phone": "239829307",
+        "postcode": "3000-021",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "12482",
+        "nameMultiWoz": "the slug and lettuce"
+    },
+    {
+        "address": "Rua dos Oleiros 16",
+        "area": "east",
+        "food": "indian",
+        "id": "19274",
+        "introduction": "?",
+        "location": [
+            40.21082220717631, -8.43270026732392
+        ],
+        "name": "Taj Indian",
+        "phone": "239 052 713",
+        "postcode": "3000-302",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19274",
+        "nameMultiWoz": "rajmahal"
+    },
+    {
+        "address": "Rua António Augusto Gonçalves 1",
+        "area": "centre",
+        "food": "turkish",
+        "id": "19178",
+        "introduction": "?",
+        "location": [
+            40.203074221412585, -8.434328647336628
+        ],
+        "name": "Kebab Mir Baba",
+        "phone": "239445168",
+        "postcode": "3040-375",
+        "pricerange": "moderate",
+        "type": "restaurant",
+        "idMultiWoz": "19178",
+        "nameMultiWoz": "efes restaurant"
+    },
+    {
+        "address": "Rua Borges Carneiro No 2 e 4",
+        "area": "centre",
+        "food": "italian",
+        "id": "19239",
+        "introduction": "Este restaurante, inaugurado no dia 22 de Janeiro de 2020, no coração de Coimbra, te propõe embarcar numa viagem pela verdadeira cozinha italiana, afinal a Itália é só sinônimo de pizzas.",
+        "location": [
+            40.20880705966611, -8.426538867975623
+        ],
+        "name": "Italianino",
+        "phone": "939651086",
+        "postcode": "3000-079",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19239",
+        "nameMultiWoz": "don pasquale pizzeria"
+    },
+    {
+        "address": "84 Regent Street City Centre",
+        "area": "centre",
+        "food": "mediterranean",
+        "id": "19217",
+        "introduction": "Elevadíssima seleção de peixes frescos da nossa costa, as mais tenras carnes de origem certificada e os paladares frescos e suculentos das frutas e legumes da estação.",
+        "location": [
+            40.21083992417687, -8.42954663058991
+        ],
+        "name": "No tacho",
+        "phone": "911925961",
+        "postcode": "3000-282",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19217",
+        "nameMultiWoz": "shiraz restaurant"
+    },
+    {
+        "address": "R. dos Gatos 8",
+        "area": "centre",
+        "food": "british",
+        "id": "508",
+        "introduction": "?",
+        "location": [
+            40.207816924637704, -8.429479263458552
+        ],
+        "name": "Toca do gato",
+        "phone": "962916904",
+        "postcode": "3000-200",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "508",
+        "nameMultiWoz": "midsummer house restaurant"
+    },
+    {
+        "address": "Rua do Brasil N° 371",
+        "area": "centre",
+        "food": "french",
+        "id": "19230",
+        "introduction": "?",
+        "location": [
+            40.20045706269901, -8.405421241253988
+        ],
+        "name": "Restaurante O Pipo",
+        "phone": "239704133",
+        "postcode": "3030-175",
+        "pricerange": "expensive",
+        "type": "restaurant",
+        "idMultiWoz": "19230",
+        "nameMultiWoz": "cote"
+    }
+]
