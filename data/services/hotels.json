@@ -1,0 +1,808 @@
+[
+    {
+        "address": "Av.Fernão de Magalhães, 199",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "0",
+        "location": [
+            40.211876,
+            -8.432570
+        ],
+        "name": "Stay Hotel Coimbra Centro",
+        "phone": "239855500",
+        "postcode": "3000-176",
+        "price": {
+            "double": "60",
+            "family": "95",
+            "single": "58"
+        },
+        "pricerange": "moderate",
+        "stars": "4",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "0",
+        "nameMultiWoz": "a and b guest house"
+    },
+    {
+        "address": "Rua Antero de Quental",
+        "area": "north",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "1",
+        "location": [
+            40.211601,
+            -8.421042
+        ],
+        "name": "AQ 188 Guest House",
+        "phone": "910408336",
+        "postcode": "3000-031",
+        "price": {
+            "double": "65",
+            "family": "90"
+        },
+        "pricerange": "moderate",
+        "stars": "4",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "1",
+        "nameMultiWoz": "acorn guest house"
+    },
+    {
+        "address": "Rua Corpo de Deus, 140, 2º Andar",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "2",
+        "location": [
+            40.210867,
+            -8.427549
+        ],
+        "name": "NN Guest House",
+        "phone": "913079746",
+        "postcode": "3000-121",
+        "price": {
+            "double": "30",
+            "single": "23"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "2",
+        "nameMultiWoz": "alexander bed and breakfast"
+    },
+    {
+        "address": "Rua Bernardim Ribeiro",
+        "area": "east",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "3",
+        "location": [
+            40.209554,
+            -8.408811
+        ],
+        "name": "CSI Coimbra & Guest House",
+        "phone": "964826060",
+        "postcode": "3000-069",
+        "price": {
+            "double": "32",
+            "single": "22"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "3",
+        "nameMultiWoz": "allenbell"
+    },
+    {
+        "address": "Praça da República N.º8",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "4",
+        "location": [
+            40.210111,
+            -8.419821
+        ],
+        "name": "Despertar Saudade",
+        "phone": "912830385",
+        "postcode": "3000-343",
+        "price": {
+            "family": "142",
+            "single": "65"
+        },
+        "pricerange": "moderate",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "4",
+        "nameMultiWoz": "alpha-milton guest house"
+    },
+    {
+        "address": "Rua de Baixo - n. 2 e 4, Santa Clara",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "5",
+        "location": [
+            40.203420,
+            -8.433747
+        ],
+        "name": "Guest House Santa Clara",
+        "phone": "936961479",
+        "postcode": "3040-242",
+        "price": {
+            "double": "60",
+            "single": "58"
+        },
+        "pricerange": "moderate",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "5",
+        "nameMultiWoz": "arbury lodge guesthouse"
+    },
+    {
+        "address": "Rua Couraça dos Apóstolos",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "6",
+        "location": [
+            40.210771,
+            -8.426034
+        ],
+        "name": "Solar Antigo Luxury",
+        "phone": "969374875",
+        "postcode": "3000-431",
+        "price": {
+            "double": "75",
+            "family": "125"
+        },
+        "pricerange": "moderate",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "6",
+        "nameMultiWoz": "archway house"
+    },
+    {
+        "address": "Largo das Ameias 3-4",
+        "area": "north",
+        "internet": "yes",
+        "parking": "no",
+        "id": "7",
+        "location": [
+            40.209034,
+            -8.431127
+        ],
+        "name": "Hotel Mondego",
+        "phone": "239496239",
+        "postcode": "3000-024",
+        "price": {
+            "double": "88"
+        },
+        "pricerange": "moderate",
+        "stars": "2",
+        "takesbookings": "yes",
+        "type": "hotel",
+        "idMultiWoz": "7",
+        "nameMultiWoz": "ashley hotel"
+    },
+    {
+        "address": "Rua Miguel Torga n.º 64 - 2.º D",
+        "area": "east",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "8",
+        "location": [
+            40.208073,
+            -8.406091
+        ],
+        "name": "Miguel Torga Room",
+        "phone": "919271863",
+        "postcode": "3030-165",
+        "price": {
+            "double": "37"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "8",
+        "nameMultiWoz": "autumn house"
+    },
+    {
+        "address": "Travessa Nova da Rua Dr. António José de Almeida 3",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "9",
+        "location": [
+            40.213723,
+            -8.423088
+        ],
+        "name": "Casa dos Carvalhos",
+        "phone": "931379000",
+        "postcode": "3000-046",
+        "price": {
+            "double": "80",
+            "single": "72"
+        },
+        "pricerange": "moderate",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "9",
+        "nameMultiWoz": "avalon"
+    },
+    {
+        "address": "Rua Carlos Alberto Pinto de Abreu, 112 Santa Clara",
+        "area": "south",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "10",
+        "location": [
+            40.198746,
+            -8.435881
+        ],
+        "name": "CoimbraAmeias",
+        "phone": "919014279",
+        "postcode": "3040-275",
+        "price": {
+            "double": "90",
+            "single": "80"
+        },
+        "pricerange": "moderate",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "10",
+        "nameMultiWoz": "aylesbray lodge guest house"
+    },
+    {
+        "address": "Av. Émidio Navarro 21",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "11",
+        "location": [
+            40.207886,
+            -8.430432
+        ],
+        "name": "Hotel Astória",
+        "phone": "239853020",
+        "postcode": "3000-150",
+        "price": {
+            "double": "63",
+            "family": "96",
+            "single": "58"
+        },
+        "pricerange": "moderate",
+        "stars": "3",
+        "takesbookings": "yes",
+        "type": "hotel",
+        "idMultiWoz": "11",
+        "nameMultiWoz": "bridge guest house"
+    },
+    {
+        "address": "Rua de Tomar nº 7",
+        "area": "east",
+        "internet": "yes",
+        "parking": "no",
+        "id": "12",
+        "location": [
+            40.207706,
+            -8.418737
+        ],
+        "name": "Casa de São Bento",
+        "phone": "239006919",
+        "postcode": "3000-403",
+        "price": {
+            "double": "100",
+            "family": "130",
+            "single": "95"
+        },
+        "pricerange": "moderate",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "12",
+        "nameMultiWoz": "carolina bed and breakfast"
+    },
+    {
+        "address": "Rua Dr. Manuel Rodrigues, n.º 43",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "13",
+        "location": [
+            40.213422,
+            -8.433030
+        ],
+        "name": "Guest House Infante Dom Henrique",
+        "phone": "927725297",
+        "postcode": "3000-258",
+        "price": {
+            "double": "34",
+            "single": "26"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "13",
+        "nameMultiWoz": "city centre north b and b"
+    },
+    {
+        "address": "Av. Fernao de Magalhaes, 25",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "14",
+        "location": [
+            40.209499,
+            -8.431423
+        ],
+        "name": "Hotel Oslo",
+        "phone": "239829071",
+        "postcode": "3000-175",
+        "price": {
+            "double": "90",
+            "family": "175",
+            "single": "80"
+        },
+        "pricerange": "moderate",
+        "stars": "3",
+        "takesbookings": "yes",
+        "type": "hotel",
+        "idMultiWoz": "14",
+        "nameMultiWoz": "cityroomz"
+    },
+    {
+        "address": "Avenida Fernão de Magalhães nº68 1º e 2º",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "15",
+        "location": [
+            40.210190,
+            -8.431580
+        ],
+        "name": "Guesthouse Lusa Atenas",
+        "phone": "239826412",
+        "postcode": "3000-171",
+        "price": {
+            "double": "45",
+            "family": "65",
+            "single": "30"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "15",
+        "nameMultiWoz": "el shaddai"
+    },
+    {
+        "address": "Rua Central 35",
+        "area": "east",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "16",
+        "location": [
+            40.144047,
+            -8.332362
+        ],
+        "name": "Quinta Dona Iria",
+        "phone": "924733556",
+        "postcode": "3220-336",
+        "price": {
+            "double": "105"
+        },
+        "pricerange": "expensive",
+        "stars": "2",
+        "takesbookings": "yes",
+        "type": "hotel",
+        "idMultiWoz": "16",
+        "nameMultiWoz": "express by holiday inn cambridge"
+    },
+    {
+        "address": "Avenida Fernão de Magalhães",
+        "area": "west",
+        "internet": "yes",
+        "parking": "no",
+        "id": "17",
+        "location": [
+            40.211612,
+            -8.432630
+        ],
+        "name": "Guesthouse Coimbra City",
+        "phone": "239825400",
+        "postcode": "3000-302",
+        "price": {
+            "double": "45",
+            "family": "65"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "17",
+        "nameMultiWoz": "finches bed and breakfast"
+        
+    },
+    {
+        "address": "Rua Abel Dias Urbano, 12",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "18",
+        "location": [
+            40.214647,
+            -8.435974
+        ],
+        "name": "Hotel Dona Ines Coimbra & Congress Center",
+        "phone": "239855800",
+        "postcode": "3000-001",
+        "price": {
+            "double": "184",
+            "family": "119",
+            "single": "216"
+        },
+        "pricerange": "expensive",
+        "stars": "4",
+        "takesbookings": "yes",
+        "type": "hotel",
+        "idMultiWoz": "18",
+        "nameMultiWoz": "gonville hotel"
+    },
+    {
+        "address": "Rua Adelino Veiga, nº 49 2º",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "19",
+        "location": [
+            40.209362,
+            -8.430628
+        ],
+        "name": "Moderna",
+        "phone": "239825413",
+        "postcode": "3000-003",
+        "price": {
+            "double": "50",
+            "family": "100",
+            "single": "40"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "19",
+        "nameMultiWoz": "hamilton lodge"
+    },
+    {
+        "address": "Estrada Principal de Bencanta Quinta de Magarrufe",
+        "area": "west",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "20",
+        "location": [
+            40.2150294,
+            -8.4586683
+        ],
+        "name": "Oryza Guest House& Suites",
+        "phone": "239056300",
+        "postcode": "3045-382",
+        "price": {
+            "double": "77",
+            "family": "87",
+            "single": "67"
+        },
+        "pricerange": "moderate",
+        "stars": "3",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "20",
+        "nameMultiWoz": "hobsons house"
+    },
+    {
+        "address": "Rua Antero de Quental, 129",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "21",
+        "location": [
+            40.210656,
+            -8.419660
+        ],
+        "name": "The Luggage",
+        "phone": "239820257",
+        "postcode": "3000-032",
+        "price": {
+            "double": "57",
+            "family": "109",
+            "single": "51"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "21",
+        "nameMultiWoz": "home from home"   
+    },
+    {
+        "address": "Largo do Terreiro, nº 5 São Silvestre",
+        "area": "west",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "22",
+        "location": [
+            40.228700,
+            -8.533573
+        ],
+        "name": "Palácio São Silvestre",
+        "phone": "239490050",
+        "postcode": "3025-561",
+        "price": {
+            "double": "165"
+        },
+        "pricerange": "expensive",
+        "stars": "4",
+        "takesbookings": "yes",
+        "type": "hotel",
+        "idMultiWoz": "22",
+        "nameMultiWoz": "huntingdon marriott hotel"
+    },
+    {
+        "address": "Rua Antero de Quental, 203",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "23",
+        "location": [
+            40.211578,
+            -8.421543
+        ],
+        "name": "NJOY Coimbra",
+        "phone": "960260600",
+        "postcode": "3000-007",
+        "price": {
+            "double": "55",
+            "family": "65"
+        },
+        "pricerange": "moderate",
+        "stars": "4",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "23",
+        "nameMultiWoz": "kirkwood house" 
+    },
+    {
+        "address": "Avenida Emídio Navarro, 4",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "24",
+        "location": [
+            40.208679,
+            -8.431536
+        ],
+        "name": "Internacional",
+        "phone": "239825503",
+        "postcode": "3000-150",
+        "price": {
+            "double": "33",
+            "family": "60",
+            "single": "33"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "24",
+        "nameMultiWoz": "leverton house"
+    },
+    {
+        "address": "Rua Joao de Ruao 21",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "25",
+        "location": [
+            40.213076,
+            -8.431365
+        ],
+        "name": "Residencial Gouveia",
+        "phone": "938410103",
+        "postcode": "3000-229",
+        "price": {
+            "double": "45",
+            "family": "60",
+            "single": "35"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "25",
+        "nameMultiWoz": "limehouse"
+    },
+    {
+        "address": "Rua da Sota, nº 9",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "26",
+        "location": [
+            40.208814,
+            -8.431168
+        ],
+        "name": "Hotel Vitória",
+        "phone": "239824049",
+        "postcode": "3000-392",
+        "price": {
+            "double": "81",
+            "family": "120",
+            "single": "70"
+        },
+        "pricerange": "moderate",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "hotel",
+        "idMultiWoz": "26",
+        "nameMultiWoz": "lovell lodge"
+    },
+    {
+        "address": "Rua Da Jantesta Nº 35",
+        "area": "south",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "27",
+        "location": [
+            40.168489,
+            -8.455108
+        ],
+        "name": "Jantesta Guest House",
+        "phone": "967708102",
+        "postcode": "3040-569",
+        "price": {
+            "double": "50",
+            "family": "75",
+            "single": "48"
+        },
+        "pricerange": "cheap",
+        "stars": "0",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "27",
+        "nameMultiWoz": "rosa's bed and breakfast"
+    },
+    {
+        "address": "Rua Adelino Veiga Nº 62",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "28",
+        "location": [
+            40.209475,
+            -8.430788
+        ],
+        "name": "Hotel Domus",
+        "phone": "239828584",
+        "postcode": "3000-002",
+        "price": {
+            "double": "60",
+            "family": "85",
+            "single": "48"
+        },
+        "pricerange": "cheap",
+        "stars": "1",
+        "takesbookings": "yes",
+        "type": "hotel",
+        "idMultiWoz": "28",
+        "nameMultiWoz": "the cambridge belfry"
+    },
+    {
+        "address": "Rotunda da Ponte Rainha Santa",
+        "area": "south",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "29",
+        "location": [
+            40.189943,
+            -8.431032
+        ],
+        "name": "Hotel D.Luis",
+        "phone": "239802120",
+        "postcode": "3040-091",
+        "price": {
+            "double": "128",
+            "family": "149",
+            "single": "122"
+        },
+        "pricerange": "expensive",
+        "stars": "3",
+        "takesbookings": "yes",
+        "type": "hotel",
+        "idMultiWoz": "29",
+        "nameMultiWoz": "the lensfield hotel"
+    },
+    {
+        "address": "Rua António Augusto Gonçalves",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "yes",
+        "id": "30",
+        "location": [
+            40.199033,
+            -8.432247
+        ],
+        "name": "Hotel Quinta das Lagrimas",
+        "phone": "239802380",
+        "postcode": "3041-901",
+        "price": {
+            "double": "124",
+            "single": "114"
+        },
+        "pricerange": "expensive",
+        "stars": "5",
+        "takesbookings": "yes",
+        "type": "hotel",
+        "idMultiWoz": "30",
+        "nameMultiWoz": "university arms hotel"
+    },
+    {
+        "address": "Rua das Parreiras, 34 - 3 Esquerdo",
+        "area": "east",
+        "internet": "yes",
+        "parking": "no",
+        "id": "31",
+        "location": [
+            40.214023,
+            -8.412106
+        ],
+        "name": "Celas Dream Studio",
+        "phone": "911805018",
+        "postcode": "3000-326",
+        "price": {
+            "double": "45",
+            "family": "108",
+            "single": "32"
+        },
+        "pricerange": "cheap",
+        "stars": "4",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "31",
+        "nameMultiWoz": "warkworth house"
+    },
+    {
+        "address": "Travessa de São Salvador nº3",
+        "area": "centre",
+        "internet": "yes",
+        "parking": "no",
+        "id": "32",
+        "location": [
+            40.209541,
+            -8.425952
+        ],
+        "name": "Epic Days Guest House",
+        "phone": "913758089",
+        "postcode": "3000-374",
+        "price": {
+            "double": "50",
+            "family": "78",
+            "single": "45"
+        },
+        "pricerange": "cheap",
+        "stars": "3",
+        "takesbookings": "yes",
+        "type": "guesthouse",
+        "idMultiWoz": "32",
+        "nameMultiWoz": "worth house"
+    }
+]
