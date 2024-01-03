@@ -1,0 +1,180 @@
+{
+  "hotel-name": [
+    {
+      "dontcare": "tanto faz"
+    }
+  ],
+  "hotel-pricerange": [
+    {
+      "expensive": "caro",
+      "cheap": "barato",
+      "moderate": "moderado",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "hotel-type": [
+    {
+      "guesthouse": "residencial",
+      "hotel": "hotel",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "hotel-parking": [
+    {
+      "free": "gratuito",
+      "no": "não",
+      "yes": "sim",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "hotel-bookday": [
+    {
+      "monday": "segunda-feira",
+      "tuesday": "terça-feira",
+      "wednesday": "quarta-feira",
+      "thursday": "quinta-feira",
+      "friday": "sexta-feira",
+      "saturday": "sábado",
+      "sunday": "domingo",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "hotel-internet": [
+    {
+      "free": "gratuito",
+      "no": "não",
+      "yes": "sim",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "hotel-area": [
+    {
+      "centre": "centro",
+      "east": "este",
+      "north": "norte",
+      "south": "sul",
+      "west": "oeste",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "train-day": [
+    {
+      "monday": "segunda-feira",
+      "tuesday": "terça-feira",
+      "wednesday": "quarta-feira",
+      "thursday": "quinta-feira",
+      "friday": "sexta-feira",
+      "saturday": "sábado",
+      "sunday": "domingo",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "attraction-area": [
+    {
+      "centre": "centro",
+      "east": "este",
+      "north": "norte",
+      "south": "sul",
+      "west": "oeste",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "attraction-type": [
+    {
+      "architecture": "arquitetura",
+      "boat": "barco",
+      "cinema": "cinema",
+      "college": "faculdade",
+      "concerthall": "concerto",
+      "entertainment": "entretenimento",
+      "museum": "museu",
+      "multiple sports": "múltiplos desportos",
+      "nightclub": "discoteca",
+      "park": "parque",
+      "swimmingpool": "piscina",
+      "theater": "teatro",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "restaurant-name": [
+    {
+      "dontcare": "tanto faz"
+    }
+  ],
+  "restaurant-pricerange": [
+    {
+      "expensive": "caro",
+      "cheap": "barato",
+      "moderate": "moderado",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "restaurant-area": [
+    {
+      "centre": "centro",
+      "east": "este",
+      "north": "norte",
+      "south": "sul",
+      "west": "oeste",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "restaurant-food": [
+    {
+      "italian": "italiana",
+      "international": "internacional",
+      "indian": "indiana",
+      "chinese": "chinesa",
+      "modern european": "europa moderna",
+      "european": "europeia",
+      "portuguese": "portuguesa",
+      "gastropub": "gastropub",
+      "mexican": "mexicana",
+      "lebanese": "libanesa",
+      "vietnamese": "vietnamita",
+      "spanish": "espanhola",
+      "french": "francesa",
+      "japanese": "japonesa",
+      "british": "britanica",
+      "korean": "coreana",
+      "turkish": "turca",
+      "asian oriental": "oriental asiática",
+      "mediterranean": "mediterrânea",
+      "thai": "tailandesa",
+      "north american": "norte-americana",
+      "seafood": "marisco",
+      "catalan": "catalã",
+      "canapes": "canapés",
+      "modern ecletic": "eclética moderna",
+      "caribbean": "caribenho",
+      "corsican": "corsa",
+      "creative": "criativa",
+      "german": "alemã",
+      "modern american": "americana moderna",
+      "african": "africano",
+      "corsica": "córsega",
+      "molecular gastronomy": "gastronomia molecular",
+      "jamaican": "jamaicana",
+      "danish": "dinamarquesa",
+      "basque": "basca",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "restaurant-bookday": [
+    {
+      "monday": "segunda-feira",
+      "tuesday": "terça-feira",
+      "wednesday": "quarta-feira",
+      "thursday": "quinta-feira",
+      "friday": "sexta-feira",
+      "saturday": "sábado",
+      "sunday": "domingo",
+      "dontcare": "tanto faz"
+    }
+  ],
+  "taxi-leaveat": [
+    {
+      "dontcare": "tanto faz"
+    }
+  ]
+}
