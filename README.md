@@ -21,7 +21,7 @@ dialogues_002.json (3/10/2023) -> The second version of the dataset contains 488
 
 # Scripts
 
-In the 'Scripts' folder, there are two Models used for Dialogue State Tracking (DST) on Portuguese dialogues that have been translated/adapted.
+In the 'Scripts' folder, there are two Models used for applying Dialogue State Tracking (DST) on Portuguese dialogues that have been translated/adapted.
 
 This folder contains two subfolders named after the QA models used: 'QA-Model-BERT-base' and 'QA-Model-T5-base'.
 
