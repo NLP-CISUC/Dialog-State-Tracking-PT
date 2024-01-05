@@ -1,6 +1,4 @@
-# data
-
-MultiWOZ-PT
+# data - MultiWOZ-PT
 
 Portuguese Dialogue Corpus Adapted from MultiWOZ 2.2 Dataset 
 
@@ -15,12 +13,18 @@ The translation involved converting the sentences uttered by the User and System
 
 The adaptation part encompassed adjusting the five Cambridge services present in the test dialogues to align with the existing services in Coimbra. These adapted services can be found in the created database(DataBase - Services), which contains the following files: "attractionsCoimbra_db.json", "hotelsCoimbra_db.json", "restaurantsCoimbra_db.json", and "trainsCoimbra_db.json".
 
-# Versions
+Versions
+
 dialogues_001.json(12/07/2023) -> The First version of the dataset contains 512 test dialogues, 1003 services, and 3240 intents. The dialogues were translated over the period from February to July.
 
 dialogues_002.json (3/10/2023) -> The second version of the dataset contains 488 test dialogues that have been added. It has 6226 intentions. The dialogues were translated from August to October.
 
 #Scripts
 
+In the 'Scripts' folder, there are two Models used for Dialogue State Tracking (DST) on Portuguese dialogues that have been translated/adapted.
 
-f
+This folder contains two subfolders named after the QA models used: 'QA-Model-BERT-base' and 'QA-Model-T5-base'.
+
+Each model is organized into two further subfolders. In one, the models have access to the intent directly ('Gold_Intent'), while in the other, they utilize an intent classifier to determine the intent in each user utterance ('Intent_Classifier').
+
+The file names 'QA_BERT/T5.py' indicate that these QA models do not employ post-processing methods. In contrast, 'QA_BERT/T5_Lev.py' denotes that both models use the Levenshtein (Lev) method for post-processing, and 'QA_BERT/T5_STS.py' signifies the use of the Semantic Textual Similarity (STS) method for post-processing.
