@@ -27,4 +27,5 @@ This folder contains two subfolders named after the QA models used: 'QA-Model-BE
 
 Each model is organized into two further subfolders. In one, the models have access to the intent directly ('Gold_Intent'), while in the other, they utilize an intent classifier to determine the intent in each user utterance ('Intent_Classifier').
 
-The file names 'QA_BERT/T5.py' indicate that these QA models do not employ post-processing methods. In contrast, 'QA_BERT/T5_Lev.py' denotes that both models use the Levenshtein (Lev) method for post-processing, and 'QA_BERT/T5_STS.py' signifies the use of the Semantic Textual Similarity (STS) method for post-processing.
+The file names 'QA_BERT/T5.py' indicate that these QA models do not employ post-processing methods. 
+In contrast, 'QA_BERT/T5_Lev.py' denotes that both models use the Levenshtein (Lev) method for post-processing, and 'QA_BERT/T5_STS.py' signifies the use of the Semantic Textual Similarity (STS) method for post-processing.
