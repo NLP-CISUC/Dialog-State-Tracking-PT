@@ -30,3 +30,5 @@ Each model is organized into two further subfolders. In one, the models have acc
 The file names 'QA_BERT/T5.py' indicate that these QA models do not employ post-processing methods. 
 
 In contrast, 'QA_BERT/T5_Lev.py' denotes that both models use the Levenshtein (Lev) method for post-processing, and 'QA_BERT/T5_STS.py' signifies the use of the Semantic Textual Similarity (STS) method for post-processing.
+
+In the 'Scripts' folder, you'll find the 'intents_classifier.py' script, designed to train an intent recognition model for dialogues using the MultiWOZ-PT dataset. Two language models, BERTimbau-base (based on BERT), and Albertina-PTPT (based on DeBERTa), were fine-tuned using the transformers library and Hugging Face. Both models were trained with a batch size of 32, a learning rate of 1e−5, and for 5 epochs. The model's performance is evaluated on the test set, considering metrics such as precision, recall, F1-score, and accuracy.
