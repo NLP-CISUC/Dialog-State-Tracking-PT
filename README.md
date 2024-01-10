@@ -23,15 +23,15 @@ dialogues_002.json (3/10/2023) -> The second version of the dataset contains 488
 
 + QA Models:
 
-In the 'Scripts' folder, there are two Models used for applying Dialogue State Tracking (DST) on Portuguese dialogues that have been translated/adapted.
+In the 'Scripts' folder, there are two Question-Answering (QA) Models designed for Dialogue State Tracking (DST) in Portuguese. These models are intended for use with dialogues formatted in MultiWOZ-PT, similar to those in the 'data' folder. A QA model requires two inputs: a question and a context. In our case, the questions were specifically crafted by us, considering the domains and respective slots in MultiWOZ-PT. The context for the QA models is provided by the user's utterances. Given a question and a context, the model generates an answer, which is then used to populate specific slots.
 
 This folder contains two subfolders named after the QA models used: 'QA-Model-BERT-base' and 'QA-Model-T5-base'.
 
-Each model is organized into two further subfolders. In one, the models have access to the intent directly ('Gold_Intent'), while in the other, they utilize an intent classifier to determine the intent in each user utterance ('Intent_Classifier').
+Each model is organized into two further subfolders. In one, the models have access to the annotated intent ('Gold_Intent'), while in the other, they utilize an intent classifier to determine the intent in each user utterance ('Intent_Classifier').
 
 The file names 'QA_BERT/T5.py' indicate that these QA models do not employ post-processing methods. 
 
-In contrast, 'QA_BERT/T5_Lev.py' denotes that both models use the Levenshtein (Lev) method for post-processing, and 'QA_BERT/T5_STS.py' signifies the use of the Semantic Textual Similarity (STS) method for post-processing.
+In contrast, 'QA_BERT/T5_Lev.py' denotes that both models use the Levenshtein (Lev) method for post-processing, and 'QA_BERT/T5_STS.py' indicates the use of the Semantic Textual Similarity (STS) method for post-processing.
 
 + Intent Classifier:
 
@@ -43,8 +43,8 @@ questionsv2.json - Contains the questions used in the QA models, tailored for ea
 
 get_questions.py - Retrieves all the questions made within the respective domains and stores them in corresponding lists.
 
-schemaPT.json - This schema includes the categorical slots present in the MultiWOZ-PT dataset, along with their possible fillers.
+schemaPT.json - This file includes the categorical slots present in the MultiWOZ-PT dataset, along with their possible fillers.
 
-get_slots_en.py - Translates a categorical slot from English to Portuguese when the slot is filled in English.
+get_slots_en.py - Used for translating a categorical slot from English to Portuguese when the slot is filled in English.
 
 
