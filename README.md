@@ -21,6 +21,8 @@ dialogues_002.json (3/10/2023) -> The second version of the dataset contains 488
 
 # Scripts
 
++ QA Models:
+
 In the 'Scripts' folder, there are two Models used for applying Dialogue State Tracking (DST) on Portuguese dialogues that have been translated/adapted.
 
 This folder contains two subfolders named after the QA models used: 'QA-Model-BERT-base' and 'QA-Model-T5-base'.
@@ -31,4 +33,18 @@ The file names 'QA_BERT/T5.py' indicate that these QA models do not employ post-
 
 In contrast, 'QA_BERT/T5_Lev.py' denotes that both models use the Levenshtein (Lev) method for post-processing, and 'QA_BERT/T5_STS.py' signifies the use of the Semantic Textual Similarity (STS) method for post-processing.
 
++ Intent Classifier:
+
 In the 'Scripts' folder, you'll find the 'intents_classifier.py' script, designed to train an intent recognition model for dialogues using the MultiWOZ-PT dataset. Two language models, BERTimbau-base (based on BERT), and Albertina-PTPT (based on DeBERTa), were fine-tuned using the transformers library and Hugging Face. Both models were trained with a batch size of 32, a learning rate of 1e−5, and for 5 epochs. The model's performance is evaluated on the test set, considering metrics such as precision, recall, F1-score, and accuracy.
+
++ Auxiliary Files:
+
+questionsv2.json - Contains the questions used in the QA models, tailored for each domain.
+
+get_questions.py - Retrieves all the questions made within the respective domains and stores them in corresponding lists.
+
+schemaPT.json - This schema includes the categorical slots present in the MultiWOZ-PT dataset, along with their possible fillers.
+
+get_slots_en.py - Translates a categorical slot from English to Portuguese when the slot is filled in English.
+
+
